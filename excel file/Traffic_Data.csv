@@ -1,0 +1,2001 @@
+Session_ID,Date,Traffic_Source,Device,City,Landing_Page,Page_View ,Session_Duration_Sec,Bounced,Converted,Revenue
+S0001,2026-07-01,Organic Search,Mobile,Bangalore,Blog,1,6,1,0,0
+S0002,2026-07-01,Referral,Desktop,Delhi,Product,5,330,0,0,0
+S0003,2026-07-01,Organic Search,Mobile,Mumbai,Blog,1,15,1,0,0
+S0004,2026-07-01,Email,Mobile,Mumbai,Product,5,558,0,0,0
+S0005,2026-07-01,Email,Desktop,Chennai,Product,9,169,0,0,0
+S0006,2026-07-01,Organic Search,Desktop,Kolkata,Product,5,591,0,0,0
+S0007,2026-07-01,Direct,Desktop,Mumbai,Contact,1,33,1,0,0
+S0008,2026-07-01,Paid Ads,Mobile,Pune,Home,2,54,0,0,0
+S0009,2026-07-01,Direct,Desktop,Kolkata,Home,2,144,0,0,0
+S0010,2026-07-01,Referral,Mobile,Pune,Home,1,23,1,0,0
+S0011,2026-07-01,Direct,Mobile,Ahmedabad,Product,1,19,1,0,0
+S0012,2026-07-01,Organic Search,Desktop,Delhi,Blog,2,310,0,0,0
+S0013,2026-07-01,Organic Search,Mobile,Mumbai,Home,1,15,1,0,0
+S0014,2026-07-01,Referral,Mobile,Bangalore,Blog,1,25,1,0,0
+S0015,2026-07-01,Organic Search,Desktop,Mumbai,Blog,3,421,0,0,0
+S0016,2026-07-01,Email,Desktop,Bangalore,Product,2,272,0,0,0
+S0017,2026-07-01,Social Media,Mobile,Kolkata,Product,1,4,1,0,0
+S0018,2026-07-01,Paid Ads,Tablet,Bangalore,Product,9,132,0,0,0
+S0019,2026-07-01,Organic Search,Mobile,Kolkata,Blog,5,431,0,0,0
+S0020,2026-07-01,Email,Desktop,Ahmedabad,Contact,12,263,0,0,0
+S0021,2026-07-02,Direct,Desktop,Hyderabad,Home,5,132,0,0,0
+S0022,2026-07-02,Direct,Desktop,Mumbai,Pricing,1,32,1,0,0
+S0023,2026-07-02,Organic Search,Mobile,Kolkata,Pricing,5,438,0,0,0
+S0024,2026-07-02,Organic Search,Mobile,Bangalore,Blog,2,430,0,0,0
+S0025,2026-07-02,Paid Ads,Desktop,Delhi,Product,3,550,0,0,0
+S0026,2026-07-02,Organic Search,Desktop,Hyderabad,Blog,1,34,1,0,0
+S0027,2026-07-02,Paid Ads,Mobile,Bangalore,Product,12,436,0,1,"1,999"
+S0028,2026-07-02,Organic Search,Mobile,Kolkata,Blog,8,272,0,0,0
+S0029,2026-07-02,Social Media,Tablet,Mumbai,Home,2,466,0,0,0
+S0030,2026-07-02,Organic Search,Mobile,Kolkata,Blog,1,32,1,0,0
+S0031,2026-07-02,Paid Ads,Mobile,Hyderabad,Product,1,30,1,0,0
+S0032,2026-07-02,Email,Desktop,Chennai,Pricing,1,32,1,0,0
+S0033,2026-07-02,Paid Ads,Desktop,Mumbai,Pricing,9,46,0,0,0
+S0034,2026-07-02,Paid Ads,Mobile,Ahmedabad,Product,1,20,1,0,0
+S0035,2026-07-02,Direct,Mobile,Pune,Contact,2,354,0,0,0
+S0036,2026-07-02,Organic Search,Desktop,Delhi,Blog,1,16,1,0,0
+S0037,2026-07-02,Organic Search,Mobile,Chennai,Pricing,2,109,0,0,0
+S0038,2026-07-02,Organic Search,Desktop,Kolkata,Home,1,20,1,0,0
+S0039,2026-07-02,Organic Search,Mobile,Delhi,Home,8,168,0,0,0
+S0040,2026-07-03,Direct,Mobile,Mumbai,Contact,1,9,1,0,0
+S0041,2026-07-03,Organic Search,Desktop,Delhi,Product,7,289,0,0,0
+S0042,2026-07-03,Organic Search,Mobile,Hyderabad,Blog,11,91,0,0,0
+S0043,2026-07-03,Paid Ads,Mobile,Chennai,Home,8,88,0,0,0
+S0044,2026-07-03,Social Media,Mobile,Kolkata,Product,1,9,1,0,0
+S0045,2026-07-03,Organic Search,Mobile,Chennai,Blog,4,433,0,0,0
+S0046,2026-07-03,Organic Search,Mobile,Hyderabad,Blog,11,536,0,0,0
+S0047,2026-07-03,Organic Search,Mobile,Bangalore,Product,1,9,1,0,0
+S0048,2026-07-03,Paid Ads,Desktop,Delhi,Product,2,433,0,1,"2,999"
+S0049,2026-07-03,Organic Search,Mobile,Mumbai,Blog,2,267,0,0,0
+S0050,2026-07-03,Paid Ads,Desktop,Mumbai,Product,12,177,0,0,0
+S0051,2026-07-03,Referral,Desktop,Chennai,Blog,6,376,0,1,"4,999"
+S0052,2026-07-03,Paid Ads,Mobile,Mumbai,Home,1,22,1,0,0
+S0053,2026-07-03,Social Media,Desktop,Mumbai,Product,1,9,1,0,0
+S0054,2026-07-03,Organic Search,Desktop,Ahmedabad,Product,1,10,1,0,0
+S0055,2026-07-03,Organic Search,Desktop,Hyderabad,Home,4,218,0,0,0
+S0056,2026-07-04,Email,Tablet,Kolkata,Product,10,380,0,0,0
+S0057,2026-07-04,Paid Ads,Mobile,Chennai,Home,1,25,1,0,0
+S0058,2026-07-04,Organic Search,Desktop,Kolkata,Blog,1,16,1,0,0
+S0059,2026-07-04,Direct,Mobile,Hyderabad,Home,1,31,1,0,0
+S0060,2026-07-04,Referral,Desktop,Hyderabad,Home,1,30,1,0,0
+S0061,2026-07-04,Social Media,Mobile,Pune,Blog,1,15,1,0,0
+S0062,2026-07-04,Email,Mobile,Bangalore,Home,1,34,1,0,0
+S0063,2026-07-04,Paid Ads,Mobile,Mumbai,Pricing,8,466,0,0,0
+S0064,2026-07-04,Paid Ads,Mobile,Mumbai,Home,11,289,0,0,0
+S0065,2026-07-04,Organic Search,Desktop,Hyderabad,Product,1,12,1,0,0
+S0066,2026-07-04,Direct,Tablet,Delhi,Home,7,436,0,0,0
+S0067,2026-07-04,Social Media,Mobile,Chennai,Blog,1,12,1,0,0
+S0068,2026-07-04,Referral,Mobile,Pune,Home,1,31,1,0,0
+S0069,2026-07-04,Direct,Mobile,Chennai,Home,12,143,0,0,0
+S0070,2026-07-04,Organic Search,Mobile,Chennai,Blog,2,597,0,0,0
+S0071,2026-07-04,Social Media,Mobile,Hyderabad,Contact,1,14,1,0,0
+S0072,2026-07-04,Direct,Mobile,Chennai,Product,7,74,0,0,0
+S0073,2026-07-04,Organic Search,Desktop,Bangalore,Blog,9,486,0,0,0
+S0074,2026-07-04,Email,Desktop,Mumbai,Blog,4,534,0,0,0
+S0075,2026-07-04,Email,Mobile,Hyderabad,Product,11,505,0,0,0
+S0076,2026-07-05,Organic Search,Desktop,Hyderabad,Blog,5,339,0,0,0
+S0077,2026-07-05,Social Media,Desktop,Mumbai,Pricing,3,240,0,1,999
+S0078,2026-07-05,Organic Search,Desktop,Bangalore,Product,4,472,0,0,0
+S0079,2026-07-05,Social Media,Desktop,Mumbai,Product,1,23,1,0,0
+S0080,2026-07-05,Social Media,Mobile,Delhi,Pricing,1,19,1,0,0
+S0081,2026-07-05,Organic Search,Mobile,Kolkata,Product,8,546,0,0,0
+S0082,2026-07-05,Email,Desktop,Delhi,Product,9,204,0,0,0
+S0083,2026-07-05,Direct,Mobile,Bangalore,Contact,12,100,0,0,0
+S0084,2026-07-05,Direct,Mobile,Chennai,Blog,7,485,0,1,799
+S0085,2026-07-05,Social Media,Desktop,Kolkata,Home,1,7,1,0,0
+S0086,2026-07-05,Social Media,Mobile,Delhi,Home,10,266,0,0,0
+S0087,2026-07-05,Email,Mobile,Chennai,Product,4,519,0,1,"2,999"
+S0088,2026-07-05,Social Media,Tablet,Mumbai,Home,1,18,1,0,0
+S0089,2026-07-05,Organic Search,Tablet,Pune,Blog,1,7,1,0,0
+S0090,2026-07-05,Social Media,Desktop,Hyderabad,Product,1,23,1,0,0
+S0091,2026-07-05,Direct,Mobile,Delhi,Pricing,1,29,1,0,0
+S0092,2026-07-05,Organic Search,Desktop,Hyderabad,Product,11,125,0,0,0
+S0093,2026-07-05,Organic Search,Mobile,Hyderabad,Blog,8,94,0,0,0
+S0094,2026-07-05,Social Media,Mobile,Delhi,Home,4,130,0,0,0
+S0095,2026-07-05,Social Media,Mobile,Delhi,Blog,1,23,1,0,0
+S0096,2026-07-06,Direct,Mobile,Hyderabad,Home,10,344,0,0,0
+S0097,2026-07-06,Social Media,Mobile,Delhi,Product,1,15,1,0,0
+S0098,2026-07-06,Social Media,Desktop,Hyderabad,Product,1,24,1,0,0
+S0099,2026-07-06,Paid Ads,Mobile,Mumbai,Pricing,1,22,1,0,0
+S0100,2026-07-06,Direct,Mobile,Chennai,Home,1,8,1,0,0
+S0101,2026-07-06,Direct,Desktop,Bangalore,Product,7,435,0,0,0
+S0102,2026-07-06,Organic Search,Tablet,Bangalore,Blog,1,22,1,0,0
+S0103,2026-07-06,Paid Ads,Desktop,Bangalore,Product,5,576,0,0,0
+S0104,2026-07-06,Referral,Mobile,Bangalore,Product,1,16,1,0,0
+S0105,2026-07-06,Social Media,Mobile,Delhi,Home,1,34,1,0,0
+S0106,2026-07-06,Direct,Tablet,Bangalore,Home,9,377,0,0,0
+S0107,2026-07-06,Paid Ads,Mobile,Bangalore,Product,1,13,1,0,0
+S0108,2026-07-06,Organic Search,Desktop,Hyderabad,Blog,3,379,0,0,0
+S0109,2026-07-06,Organic Search,Desktop,Mumbai,Blog,1,16,1,0,0
+S0110,2026-07-06,Organic Search,Desktop,Chennai,Blog,7,156,0,1,"1,499"
+S0111,2026-07-06,Email,Mobile,Chennai,Pricing,10,495,0,0,0
+S0112,2026-07-06,Organic Search,Mobile,Kolkata,Blog,10,401,0,0,0
+S0113,2026-07-06,Organic Search,Desktop,Mumbai,Blog,1,33,1,0,0
+S0114,2026-07-06,Social Media,Tablet,Chennai,Home,1,22,1,0,0
+S0115,2026-07-07,Social Media,Desktop,Delhi,Product,1,11,1,0,0
+S0116,2026-07-07,Email,Mobile,Delhi,Product,1,29,1,0,0
+S0117,2026-07-07,Social Media,Tablet,Bangalore,Home,4,581,0,0,0
+S0118,2026-07-07,Organic Search,Mobile,Bangalore,Blog,1,5,1,0,0
+S0119,2026-07-07,Social Media,Desktop,Delhi,Home,4,185,0,0,0
+S0120,2026-07-07,Direct,Mobile,Kolkata,Home,5,318,0,0,0
+S0121,2026-07-07,Organic Search,Mobile,Delhi,Home,1,19,1,0,0
+S0122,2026-07-07,Paid Ads,Mobile,Delhi,Pricing,1,31,1,0,0
+S0123,2026-07-07,Organic Search,Mobile,Hyderabad,Home,1,28,1,0,0
+S0124,2026-07-07,Organic Search,Mobile,Delhi,Blog,1,25,1,0,0
+S0125,2026-07-07,Organic Search,Mobile,Hyderabad,Pricing,1,29,1,0,0
+S0126,2026-07-07,Organic Search,Desktop,Bangalore,Blog,1,6,1,0,0
+S0127,2026-07-07,Paid Ads,Desktop,Chennai,Home,6,375,0,0,0
+S0128,2026-07-07,Email,Desktop,Bangalore,Home,9,513,0,0,0
+S0129,2026-07-07,Organic Search,Desktop,Delhi,Product,12,299,0,0,0
+S0130,2026-07-07,Social Media,Mobile,Delhi,Blog,6,513,0,0,0
+S0131,2026-07-07,Social Media,Mobile,Ahmedabad,Product,1,22,1,0,0
+S0132,2026-07-07,Referral,Desktop,Delhi,Product,1,12,1,0,0
+S0133,2026-07-07,Referral,Mobile,Chennai,Home,9,92,0,0,0
+S0134,2026-07-07,Direct,Mobile,Delhi,Home,8,243,0,0,0
+S0135,2026-07-07,Organic Search,Desktop,Mumbai,Blog,1,5,1,0,0
+S0136,2026-07-07,Direct,Desktop,Delhi,Home,5,392,0,0,0
+S0137,2026-07-07,Direct,Mobile,Chennai,Home,7,593,0,0,0
+S0138,2026-07-07,Social Media,Mobile,Hyderabad,Blog,6,189,0,0,0
+S0139,2026-07-07,Organic Search,Desktop,Delhi,Home,1,7,1,0,0
+S0140,2026-07-07,Organic Search,Desktop,Pune,Product,8,248,0,0,0
+S0141,2026-07-07,Social Media,Desktop,Chennai,Blog,1,8,1,0,0
+S0142,2026-07-07,Organic Search,Desktop,Chennai,Blog,1,10,1,0,0
+S0143,2026-07-07,Organic Search,Mobile,Delhi,Blog,1,7,1,0,0
+S0144,2026-07-07,Paid Ads,Desktop,Kolkata,Product,1,10,1,0,0
+S0145,2026-07-07,Email,Mobile,Ahmedabad,Product,4,429,0,0,0
+S0146,2026-07-07,Direct,Mobile,Pune,Home,5,291,0,0,0
+S0147,2026-07-07,Organic Search,Desktop,Delhi,Product,1,16,1,0,0
+S0148,2026-07-08,Organic Search,Desktop,Delhi,Blog,3,257,0,0,0
+S0149,2026-07-08,Email,Desktop,Mumbai,Home,1,29,1,0,0
+S0150,2026-07-08,Referral,Mobile,Pune,Product,1,35,1,0,0
+S0151,2026-07-08,Direct,Mobile,Mumbai,Blog,1,21,1,0,0
+S0152,2026-07-08,Direct,Desktop,Bangalore,Product,3,94,0,0,0
+S0153,2026-07-08,Organic Search,Mobile,Pune,Blog,9,587,0,0,0
+S0154,2026-07-08,Direct,Mobile,Mumbai,Home,1,8,1,0,0
+S0155,2026-07-08,Email,Mobile,Kolkata,Product,1,19,1,0,0
+S0156,2026-07-08,Organic Search,Desktop,Bangalore,Product,12,417,0,0,0
+S0157,2026-07-08,Direct,Desktop,Delhi,Home,5,584,0,0,0
+S0158,2026-07-08,Direct,Mobile,Ahmedabad,Home,5,285,0,0,0
+S0159,2026-07-08,Referral,Mobile,Ahmedabad,Blog,3,83,0,0,0
+S0160,2026-07-08,Paid Ads,Mobile,Mumbai,Product,1,8,1,0,0
+S0161,2026-07-08,Direct,Desktop,Delhi,Home,10,442,0,0,0
+S0162,2026-07-08,Email,Mobile,Chennai,Pricing,6,466,0,0,0
+S0163,2026-07-08,Social Media,Mobile,Bangalore,Contact,3,217,0,1,"1,999"
+S0164,2026-07-08,Paid Ads,Desktop,Kolkata,Home,11,167,0,0,0
+S0165,2026-07-08,Email,Desktop,Mumbai,Home,5,48,0,0,0
+S0166,2026-07-08,Direct,Desktop,Ahmedabad,Contact,5,414,0,0,0
+S0167,2026-07-08,Email,Mobile,Ahmedabad,Product,6,127,0,0,0
+S0168,2026-07-09,Paid Ads,Tablet,Kolkata,Product,10,173,0,0,0
+S0169,2026-07-09,Social Media,Mobile,Bangalore,Pricing,1,24,1,0,0
+S0170,2026-07-09,Direct,Desktop,Bangalore,Blog,8,393,0,0,0
+S0171,2026-07-09,Social Media,Mobile,Mumbai,Blog,1,8,1,0,0
+S0172,2026-07-09,Direct,Tablet,Kolkata,Blog,9,583,0,0,0
+S0173,2026-07-09,Referral,Desktop,Kolkata,Product,2,115,0,0,0
+S0174,2026-07-09,Organic Search,Tablet,Bangalore,Home,1,16,1,0,0
+S0175,2026-07-09,Direct,Desktop,Kolkata,Product,1,11,1,0,0
+S0176,2026-07-09,Email,Desktop,Bangalore,Product,1,3,1,0,0
+S0177,2026-07-09,Paid Ads,Tablet,Pune,Pricing,1,11,1,0,0
+S0178,2026-07-09,Email,Mobile,Delhi,Pricing,4,67,0,0,0
+S0179,2026-07-09,Social Media,Tablet,Mumbai,Blog,1,34,1,0,0
+S0180,2026-07-09,Referral,Mobile,Hyderabad,Home,1,27,1,0,0
+S0181,2026-07-09,Social Media,Desktop,Kolkata,Product,1,32,1,0,0
+S0182,2026-07-09,Social Media,Mobile,Ahmedabad,Blog,1,15,1,0,0
+S0183,2026-07-09,Organic Search,Mobile,Delhi,Blog,8,519,0,0,0
+S0184,2026-07-09,Organic Search,Desktop,Delhi,Blog,7,355,0,0,0
+S0185,2026-07-09,Organic Search,Mobile,Bangalore,Blog,5,252,0,0,0
+S0186,2026-07-10,Organic Search,Mobile,Ahmedabad,Blog,12,244,0,0,0
+S0187,2026-07-10,Direct,Desktop,Kolkata,Home,12,574,0,0,0
+S0188,2026-07-10,Direct,Desktop,Chennai,Contact,1,7,1,0,0
+S0189,2026-07-10,Organic Search,Mobile,Hyderabad,Blog,10,413,0,1,"4,999"
+S0190,2026-07-10,Referral,Mobile,Delhi,Blog,1,16,1,0,0
+S0191,2026-07-10,Organic Search,Desktop,Hyderabad,Product,1,30,1,0,0
+S0192,2026-07-10,Direct,Desktop,Kolkata,Product,10,517,0,0,0
+S0193,2026-07-10,Organic Search,Mobile,Hyderabad,Contact,10,364,0,0,0
+S0194,2026-07-10,Paid Ads,Mobile,Bangalore,Product,1,34,1,0,0
+S0195,2026-07-10,Organic Search,Mobile,Hyderabad,Blog,6,242,0,0,0
+S0196,2026-07-10,Organic Search,Mobile,Bangalore,Pricing,1,32,1,0,0
+S0197,2026-07-10,Referral,Desktop,Pune,Product,2,210,0,0,0
+S0198,2026-07-10,Email,Desktop,Delhi,Product,7,536,0,0,0
+S0199,2026-07-10,Direct,Desktop,Mumbai,Product,4,374,0,0,0
+S0200,2026-07-10,Organic Search,Tablet,Pune,Blog,9,256,0,0,0
+S0201,2026-07-10,Organic Search,Desktop,Mumbai,Home,1,3,1,0,0
+S0202,2026-07-10,Email,Mobile,Chennai,Product,5,468,0,0,0
+S0203,2026-07-10,Direct,Mobile,Mumbai,Home,12,431,0,0,0
+S0204,2026-07-11,Social Media,Desktop,Chennai,Home,8,291,0,0,0
+S0205,2026-07-11,Social Media,Mobile,Delhi,Pricing,1,26,1,0,0
+S0206,2026-07-11,Paid Ads,Mobile,Pune,Product,12,597,0,0,0
+S0207,2026-07-11,Direct,Mobile,Chennai,Contact,1,29,1,0,0
+S0208,2026-07-11,Email,Mobile,Chennai,Home,12,549,0,0,0
+S0209,2026-07-11,Organic Search,Desktop,Mumbai,Blog,1,6,1,0,0
+S0210,2026-07-11,Direct,Mobile,Delhi,Product,1,28,1,0,0
+S0211,2026-07-11,Social Media,Tablet,Chennai,Home,1,33,1,0,0
+S0212,2026-07-11,Social Media,Desktop,Kolkata,Product,9,352,0,0,0
+S0213,2026-07-11,Email,Tablet,Pune,Product,12,111,0,1,"1,499"
+S0214,2026-07-11,Email,Desktop,Kolkata,Product,6,595,0,1,"2,999"
+S0215,2026-07-11,Organic Search,Mobile,Kolkata,Blog,4,465,0,0,0
+S0216,2026-07-11,Email,Desktop,Kolkata,Product,12,58,0,0,0
+S0217,2026-07-11,Paid Ads,Desktop,Mumbai,Product,1,20,1,0,0
+S0218,2026-07-11,Social Media,Desktop,Kolkata,Blog,2,178,0,0,0
+S0219,2026-07-11,Organic Search,Desktop,Delhi,Contact,5,560,0,0,0
+S0220,2026-07-11,Organic Search,Mobile,Bangalore,Home,1,9,1,0,0
+S0221,2026-07-11,Paid Ads,Tablet,Bangalore,Pricing,3,226,0,0,0
+S0222,2026-07-11,Organic Search,Mobile,Hyderabad,Product,1,8,1,0,0
+S0223,2026-07-11,Organic Search,Desktop,Mumbai,Home,12,587,0,0,0
+S0224,2026-07-11,Direct,Desktop,Bangalore,Pricing,9,57,0,0,0
+S0225,2026-07-11,Organic Search,Mobile,Bangalore,Blog,1,12,1,0,0
+S0226,2026-07-11,Organic Search,Tablet,Delhi,Product,11,387,0,0,0
+S0227,2026-07-11,Email,Desktop,Bangalore,Home,9,564,0,0,0
+S0228,2026-07-12,Email,Mobile,Pune,Product,7,400,0,0,0
+S0229,2026-07-12,Organic Search,Desktop,Pune,Blog,5,97,0,0,0
+S0230,2026-07-12,Social Media,Desktop,Hyderabad,Product,2,263,0,0,0
+S0231,2026-07-12,Organic Search,Mobile,Mumbai,Blog,12,388,0,0,0
+S0232,2026-07-12,Social Media,Mobile,Delhi,Product,1,26,1,0,0
+S0233,2026-07-12,Organic Search,Mobile,Delhi,Home,1,34,1,0,0
+S0234,2026-07-12,Social Media,Desktop,Hyderabad,Home,1,34,1,0,0
+S0235,2026-07-12,Referral,Desktop,Delhi,Blog,3,229,0,0,0
+S0236,2026-07-12,Organic Search,Mobile,Kolkata,Product,1,4,1,0,0
+S0237,2026-07-12,Paid Ads,Tablet,Hyderabad,Blog,11,567,0,0,0
+S0238,2026-07-12,Organic Search,Tablet,Delhi,Product,11,142,0,0,0
+S0239,2026-07-12,Paid Ads,Mobile,Delhi,Product,1,11,1,0,0
+S0240,2026-07-12,Organic Search,Desktop,Delhi,Product,2,361,0,0,0
+S0241,2026-07-12,Organic Search,Mobile,Bangalore,Home,1,10,1,0,0
+S0242,2026-07-12,Social Media,Mobile,Delhi,Home,1,32,1,0,0
+S0243,2026-07-12,Social Media,Tablet,Chennai,Home,8,452,0,0,0
+S0244,2026-07-12,Social Media,Desktop,Bangalore,Blog,1,25,1,0,0
+S0245,2026-07-12,Organic Search,Mobile,Hyderabad,Blog,1,4,1,0,0
+S0246,2026-07-12,Email,Tablet,Delhi,Product,3,290,0,0,0
+S0247,2026-07-12,Organic Search,Desktop,Bangalore,Contact,9,366,0,0,0
+S0248,2026-07-12,Organic Search,Desktop,Ahmedabad,Pricing,1,27,1,0,0
+S0249,2026-07-12,Email,Mobile,Ahmedabad,Pricing,4,246,0,0,0
+S0250,2026-07-12,Organic Search,Mobile,Mumbai,Blog,7,391,0,1,999
+S0251,2026-07-12,Organic Search,Mobile,Hyderabad,Home,1,25,1,0,0
+S0252,2026-07-12,Email,Tablet,Delhi,Pricing,4,139,0,0,0
+S0253,2026-07-13,Paid Ads,Mobile,Bangalore,Product,1,16,1,0,0
+S0254,2026-07-13,Referral,Mobile,Kolkata,Blog,1,22,1,0,0
+S0255,2026-07-13,Organic Search,Tablet,Mumbai,Product,10,584,0,1,999
+S0256,2026-07-13,Email,Desktop,Bangalore,Home,7,419,0,0,0
+S0257,2026-07-13,Direct,Mobile,Bangalore,Product,9,372,0,0,0
+S0258,2026-07-13,Direct,Mobile,Hyderabad,Home,9,61,0,0,0
+S0259,2026-07-13,Social Media,Mobile,Bangalore,Blog,1,18,1,0,0
+S0260,2026-07-13,Email,Mobile,Mumbai,Product,10,439,0,0,0
+S0261,2026-07-13,Social Media,Mobile,Delhi,Contact,9,589,0,0,0
+S0262,2026-07-13,Social Media,Mobile,Bangalore,Blog,1,13,1,0,0
+S0263,2026-07-13,Direct,Mobile,Delhi,Product,1,4,1,0,0
+S0264,2026-07-13,Direct,Mobile,Bangalore,Pricing,1,33,1,0,0
+S0265,2026-07-13,Email,Mobile,Bangalore,Home,6,243,0,0,0
+S0266,2026-07-13,Organic Search,Mobile,Delhi,Blog,1,25,1,0,0
+S0267,2026-07-13,Organic Search,Desktop,Hyderabad,Blog,3,390,0,0,0
+S0268,2026-07-13,Organic Search,Desktop,Kolkata,Blog,1,29,1,0,0
+S0269,2026-07-13,Referral,Desktop,Mumbai,Blog,3,460,0,0,0
+S0270,2026-07-13,Email,Mobile,Bangalore,Home,3,66,0,1,"4,999"
+S0271,2026-07-13,Social Media,Desktop,Delhi,Product,1,11,1,0,0
+S0272,2026-07-13,Referral,Tablet,Mumbai,Product,1,29,1,0,0
+S0273,2026-07-13,Direct,Tablet,Hyderabad,Product,1,11,1,0,0
+S0274,2026-07-14,Social Media,Mobile,Mumbai,Home,10,134,0,0,0
+S0275,2026-07-14,Direct,Mobile,Mumbai,Product,5,225,0,0,0
+S0276,2026-07-14,Direct,Mobile,Ahmedabad,Blog,1,25,1,0,0
+S0277,2026-07-14,Direct,Mobile,Mumbai,Home,7,131,0,0,0
+S0278,2026-07-14,Organic Search,Desktop,Bangalore,Contact,12,298,0,0,0
+S0279,2026-07-14,Email,Desktop,Bangalore,Home,4,169,0,1,"4,999"
+S0280,2026-07-14,Organic Search,Mobile,Kolkata,Product,2,440,0,0,0
+S0281,2026-07-14,Email,Desktop,Bangalore,Home,2,94,0,0,0
+S0282,2026-07-14,Direct,Mobile,Chennai,Home,1,19,1,0,0
+S0283,2026-07-14,Organic Search,Mobile,Delhi,Blog,6,150,0,1,499
+S0284,2026-07-14,Direct,Mobile,Delhi,Contact,1,35,1,0,0
+S0285,2026-07-14,Referral,Tablet,Chennai,Blog,2,564,0,0,0
+S0286,2026-07-14,Social Media,Mobile,Mumbai,Product,1,5,1,0,0
+S0287,2026-07-14,Organic Search,Mobile,Bangalore,Product,1,31,1,0,0
+S0288,2026-07-14,Organic Search,Mobile,Ahmedabad,Product,3,224,0,0,0
+S0289,2026-07-14,Social Media,Tablet,Chennai,Blog,8,308,0,0,0
+S0290,2026-07-14,Organic Search,Desktop,Bangalore,Product,1,26,1,0,0
+S0291,2026-07-14,Referral,Mobile,Chennai,Home,1,13,1,0,0
+S0292,2026-07-14,Paid Ads,Desktop,Kolkata,Home,1,4,1,0,0
+S0293,2026-07-14,Organic Search,Desktop,Bangalore,Product,10,499,0,0,0
+S0294,2026-07-15,Paid Ads,Mobile,Delhi,Pricing,1,13,1,0,0
+S0295,2026-07-15,Direct,Desktop,Delhi,Contact,11,239,0,0,0
+S0296,2026-07-15,Organic Search,Mobile,Mumbai,Blog,3,202,0,0,0
+S0297,2026-07-15,Paid Ads,Mobile,Bangalore,Product,1,32,1,0,0
+S0298,2026-07-15,Organic Search,Desktop,Ahmedabad,Blog,1,7,1,0,0
+S0299,2026-07-15,Organic Search,Desktop,Ahmedabad,Blog,1,28,1,0,0
+S0300,2026-07-15,Organic Search,Desktop,Bangalore,Blog,4,147,0,0,0
+S0301,2026-07-15,Direct,Mobile,Kolkata,Home,6,595,0,0,0
+S0302,2026-07-15,Organic Search,Desktop,Pune,Product,1,30,1,0,0
+S0303,2026-07-15,Paid Ads,Mobile,Chennai,Product,1,18,1,0,0
+S0304,2026-07-15,Direct,Mobile,Mumbai,Home,7,171,0,0,0
+S0305,2026-07-15,Organic Search,Mobile,Delhi,Blog,5,235,0,0,0
+S0306,2026-07-15,Referral,Mobile,Pune,Blog,1,5,1,0,0
+S0307,2026-07-15,Direct,Mobile,Bangalore,Pricing,9,483,0,0,0
+S0308,2026-07-15,Paid Ads,Mobile,Delhi,Product,4,207,0,0,0
+S0309,2026-07-15,Organic Search,Mobile,Mumbai,Blog,7,467,0,0,0
+S0310,2026-07-15,Social Media,Desktop,Bangalore,Contact,10,134,0,0,0
+S0311,2026-07-15,Paid Ads,Desktop,Delhi,Product,2,52,0,0,0
+S0312,2026-07-15,Referral,Desktop,Mumbai,Blog,2,554,0,0,0
+S0313,2026-07-15,Organic Search,Desktop,Kolkata,Contact,9,470,0,0,0
+S0314,2026-07-15,Social Media,Mobile,Delhi,Blog,2,291,0,0,0
+S0315,2026-07-15,Email,Desktop,Delhi,Pricing,10,87,0,0,0
+S0316,2026-07-15,Direct,Tablet,Bangalore,Product,5,252,0,0,0
+S0317,2026-07-15,Social Media,Mobile,Mumbai,Home,4,88,0,0,0
+S0318,2026-07-16,Organic Search,Desktop,Delhi,Product,6,564,0,0,0
+S0319,2026-07-16,Referral,Mobile,Bangalore,Blog,1,32,1,0,0
+S0320,2026-07-16,Direct,Tablet,Chennai,Home,10,433,0,0,0
+S0321,2026-07-16,Paid Ads,Mobile,Mumbai,Product,1,22,1,0,0
+S0322,2026-07-16,Organic Search,Mobile,Delhi,Blog,8,383,0,0,0
+S0323,2026-07-16,Paid Ads,Desktop,Pune,Product,1,11,1,0,0
+S0324,2026-07-16,Organic Search,Desktop,Hyderabad,Blog,1,22,1,0,0
+S0325,2026-07-16,Paid Ads,Mobile,Mumbai,Home,1,10,1,0,0
+S0326,2026-07-16,Organic Search,Mobile,Mumbai,Pricing,1,13,1,0,0
+S0327,2026-07-16,Referral,Mobile,Hyderabad,Blog,9,529,0,1,799
+S0328,2026-07-16,Organic Search,Mobile,Pune,Product,1,18,1,0,0
+S0329,2026-07-16,Social Media,Desktop,Chennai,Product,1,27,1,0,0
+S0330,2026-07-16,Direct,Desktop,Chennai,Blog,9,345,0,0,0
+S0331,2026-07-16,Email,Mobile,Mumbai,Pricing,4,81,0,0,0
+S0332,2026-07-16,Direct,Mobile,Bangalore,Pricing,1,24,1,0,0
+S0333,2026-07-16,Organic Search,Tablet,Mumbai,Blog,11,200,0,0,0
+S0334,2026-07-16,Email,Desktop,Mumbai,Product,11,510,0,1,"4,999"
+S0335,2026-07-16,Direct,Desktop,Kolkata,Home,1,31,1,0,0
+S0336,2026-07-17,Email,Desktop,Mumbai,Contact,11,384,0,0,0
+S0337,2026-07-17,Social Media,Mobile,Delhi,Product,1,21,1,0,0
+S0338,2026-07-17,Paid Ads,Desktop,Bangalore,Home,1,6,1,0,0
+S0339,2026-07-17,Email,Mobile,Bangalore,Pricing,11,591,0,1,"2,999"
+S0340,2026-07-17,Paid Ads,Mobile,Ahmedabad,Product,5,48,0,0,0
+S0341,2026-07-17,Social Media,Tablet,Ahmedabad,Blog,1,29,1,0,0
+S0342,2026-07-17,Social Media,Mobile,Chennai,Blog,1,30,1,0,0
+S0343,2026-07-17,Paid Ads,Mobile,Mumbai,Pricing,1,4,1,0,0
+S0344,2026-07-17,Direct,Mobile,Kolkata,Product,9,160,0,0,0
+S0345,2026-07-17,Organic Search,Mobile,Pune,Product,6,308,0,1,499
+S0346,2026-07-17,Referral,Desktop,Delhi,Product,6,220,0,0,0
+S0347,2026-07-17,Paid Ads,Desktop,Mumbai,Product,1,16,1,0,0
+S0348,2026-07-17,Organic Search,Mobile,Ahmedabad,Blog,1,30,1,0,0
+S0349,2026-07-17,Direct,Mobile,Ahmedabad,Blog,6,487,0,0,0
+S0350,2026-07-17,Direct,Mobile,Ahmedabad,Product,8,102,0,0,0
+S0351,2026-07-17,Organic Search,Mobile,Mumbai,Blog,1,33,1,0,0
+S0352,2026-07-17,Organic Search,Desktop,Pune,Contact,9,170,0,0,0
+S0353,2026-07-17,Organic Search,Mobile,Hyderabad,Contact,10,442,0,0,0
+S0354,2026-07-17,Social Media,Mobile,Chennai,Home,1,27,1,0,0
+S0355,2026-07-17,Referral,Desktop,Mumbai,Product,4,275,0,0,0
+S0356,2026-07-17,Paid Ads,Desktop,Kolkata,Pricing,6,508,0,0,0
+S0357,2026-07-17,Email,Mobile,Mumbai,Product,9,368,0,0,0
+S0358,2026-07-17,Social Media,Desktop,Delhi,Home,12,279,0,0,0
+S0359,2026-07-17,Email,Tablet,Kolkata,Product,11,69,0,0,0
+S0360,2026-07-17,Organic Search,Mobile,Kolkata,Product,1,26,1,0,0
+S0361,2026-07-17,Paid Ads,Desktop,Chennai,Product,7,64,0,0,0
+S0362,2026-07-17,Social Media,Desktop,Bangalore,Home,1,24,1,0,0
+S0363,2026-07-17,Social Media,Mobile,Delhi,Blog,1,15,1,0,0
+S0364,2026-07-18,Organic Search,Mobile,Kolkata,Blog,1,26,1,0,0
+S0365,2026-07-18,Organic Search,Mobile,Bangalore,Home,9,576,0,0,0
+S0366,2026-07-18,Organic Search,Mobile,Hyderabad,Home,1,13,1,0,0
+S0367,2026-07-18,Social Media,Tablet,Delhi,Home,1,32,1,0,0
+S0368,2026-07-18,Paid Ads,Desktop,Ahmedabad,Product,1,19,1,0,0
+S0369,2026-07-18,Organic Search,Mobile,Mumbai,Pricing,12,191,0,1,"1,999"
+S0370,2026-07-18,Direct,Mobile,Kolkata,Product,1,33,1,0,0
+S0371,2026-07-18,Social Media,Desktop,Hyderabad,Home,1,11,1,0,0
+S0372,2026-07-18,Organic Search,Mobile,Delhi,Blog,1,6,1,0,0
+S0373,2026-07-18,Referral,Desktop,Mumbai,Product,1,23,1,0,0
+S0374,2026-07-18,Organic Search,Desktop,Bangalore,Blog,8,464,0,0,0
+S0375,2026-07-18,Email,Mobile,Hyderabad,Pricing,9,505,0,0,0
+S0376,2026-07-18,Social Media,Tablet,Delhi,Product,6,500,0,0,0
+S0377,2026-07-18,Organic Search,Mobile,Mumbai,Contact,6,210,0,0,0
+S0378,2026-07-18,Organic Search,Tablet,Kolkata,Blog,2,402,0,0,0
+S0379,2026-07-18,Organic Search,Mobile,Chennai,Home,1,21,1,0,0
+S0380,2026-07-18,Direct,Desktop,Delhi,Pricing,12,355,0,0,0
+S0381,2026-07-18,Organic Search,Mobile,Ahmedabad,Blog,1,33,1,0,0
+S0382,2026-07-18,Direct,Mobile,Kolkata,Contact,9,480,0,0,0
+S0383,2026-07-18,Referral,Desktop,Kolkata,Blog,1,13,1,0,0
+S0384,2026-07-18,Social Media,Mobile,Delhi,Blog,9,433,0,0,0
+S0385,2026-07-18,Direct,Mobile,Mumbai,Contact,1,13,1,0,0
+S0386,2026-07-18,Organic Search,Mobile,Kolkata,Home,1,15,1,0,0
+S0387,2026-07-18,Direct,Desktop,Hyderabad,Home,1,5,1,0,0
+S0388,2026-07-18,Social Media,Mobile,Bangalore,Blog,1,14,1,0,0
+S0389,2026-07-18,Direct,Desktop,Bangalore,Blog,5,284,0,0,0
+S0390,2026-07-18,Social Media,Desktop,Mumbai,Contact,1,28,1,0,0
+S0391,2026-07-19,Organic Search,Mobile,Pune,Blog,1,18,1,0,0
+S0392,2026-07-19,Paid Ads,Mobile,Chennai,Product,1,5,1,0,0
+S0393,2026-07-19,Paid Ads,Mobile,Bangalore,Product,1,12,1,0,0
+S0394,2026-07-19,Social Media,Mobile,Bangalore,Home,1,3,1,0,0
+S0395,2026-07-19,Direct,Mobile,Bangalore,Home,1,29,1,0,0
+S0396,2026-07-19,Organic Search,Mobile,Kolkata,Pricing,8,186,0,0,0
+S0397,2026-07-19,Organic Search,Desktop,Mumbai,Blog,6,372,0,0,0
+S0398,2026-07-19,Direct,Tablet,Pune,Contact,4,127,0,0,0
+S0399,2026-07-19,Paid Ads,Desktop,Bangalore,Home,1,6,1,0,0
+S0400,2026-07-19,Email,Desktop,Delhi,Home,4,552,0,0,0
+S0401,2026-07-19,Organic Search,Mobile,Mumbai,Blog,1,32,1,0,0
+S0402,2026-07-19,Referral,Mobile,Bangalore,Product,1,21,1,0,0
+S0403,2026-07-19,Organic Search,Desktop,Mumbai,Blog,6,173,0,0,0
+S0404,2026-07-19,Organic Search,Mobile,Ahmedabad,Home,4,138,0,0,0
+S0405,2026-07-19,Direct,Desktop,Kolkata,Product,9,195,0,0,0
+S0406,2026-07-19,Organic Search,Mobile,Kolkata,Contact,1,15,1,0,0
+S0407,2026-07-19,Paid Ads,Desktop,Kolkata,Product,8,502,0,0,0
+S0408,2026-07-19,Direct,Mobile,Delhi,Product,12,247,0,0,0
+S0409,2026-07-19,Referral,Desktop,Bangalore,Blog,2,271,0,0,0
+S0410,2026-07-19,Social Media,Mobile,Delhi,Blog,1,25,1,0,0
+S0411,2026-07-19,Email,Mobile,Bangalore,Product,2,560,0,0,0
+S0412,2026-07-19,Organic Search,Mobile,Bangalore,Blog,7,103,0,0,0
+S0413,2026-07-19,Organic Search,Tablet,Hyderabad,Blog,1,34,1,0,0
+S0414,2026-07-19,Social Media,Mobile,Kolkata,Home,1,16,1,0,0
+S0415,2026-07-19,Email,Mobile,Kolkata,Product,1,10,1,0,0
+S0416,2026-07-19,Social Media,Desktop,Kolkata,Blog,3,141,0,0,0
+S0417,2026-07-19,Organic Search,Desktop,Chennai,Product,8,458,0,0,0
+S0418,2026-07-19,Referral,Desktop,Delhi,Pricing,9,570,0,0,0
+S0419,2026-07-20,Direct,Mobile,Bangalore,Home,6,132,0,0,0
+S0420,2026-07-20,Social Media,Desktop,Ahmedabad,Product,12,146,0,0,0
+S0421,2026-07-20,Email,Desktop,Kolkata,Home,11,584,0,1,999
+S0422,2026-07-20,Social Media,Mobile,Mumbai,Home,8,120,0,0,0
+S0423,2026-07-20,Direct,Mobile,Bangalore,Product,1,22,1,0,0
+S0424,2026-07-20,Direct,Mobile,Bangalore,Product,1,3,1,0,0
+S0425,2026-07-20,Email,Desktop,Bangalore,Home,6,599,0,0,0
+S0426,2026-07-20,Referral,Desktop,Bangalore,Blog,3,179,0,0,0
+S0427,2026-07-20,Social Media,Mobile,Delhi,Blog,2,83,0,0,0
+S0428,2026-07-20,Email,Desktop,Pune,Product,2,331,0,0,0
+S0429,2026-07-20,Organic Search,Mobile,Delhi,Pricing,8,295,0,1,799
+S0430,2026-07-20,Social Media,Desktop,Bangalore,Home,1,30,1,0,0
+S0431,2026-07-20,Organic Search,Mobile,Bangalore,Blog,9,188,0,0,0
+S0432,2026-07-20,Paid Ads,Desktop,Mumbai,Home,2,153,0,0,0
+S0433,2026-07-20,Organic Search,Desktop,Delhi,Blog,7,50,0,0,0
+S0434,2026-07-20,Organic Search,Mobile,Bangalore,Blog,1,15,1,0,0
+S0435,2026-07-20,Paid Ads,Desktop,Pune,Home,9,76,0,0,0
+S0436,2026-07-20,Social Media,Mobile,Kolkata,Home,7,510,0,0,0
+S0437,2026-07-20,Organic Search,Mobile,Mumbai,Blog,1,19,1,0,0
+S0438,2026-07-20,Organic Search,Mobile,Chennai,Product,1,10,1,0,0
+S0439,2026-07-20,Referral,Tablet,Mumbai,Blog,5,45,0,0,0
+S0440,2026-07-20,Social Media,Mobile,Bangalore,Home,1,30,1,0,0
+S0441,2026-07-20,Social Media,Desktop,Bangalore,Contact,8,383,0,0,0
+S0442,2026-07-20,Paid Ads,Mobile,Pune,Home,3,373,0,0,0
+S0443,2026-07-21,Organic Search,Desktop,Chennai,Home,7,329,0,0,0
+S0444,2026-07-21,Organic Search,Desktop,Bangalore,Product,10,45,0,0,0
+S0445,2026-07-21,Organic Search,Desktop,Bangalore,Blog,1,35,1,0,0
+S0446,2026-07-21,Organic Search,Mobile,Mumbai,Blog,1,31,1,0,0
+S0447,2026-07-21,Direct,Mobile,Delhi,Product,11,186,0,0,0
+S0448,2026-07-21,Social Media,Mobile,Delhi,Product,1,22,1,0,0
+S0449,2026-07-21,Direct,Mobile,Hyderabad,Product,10,363,0,0,0
+S0450,2026-07-21,Organic Search,Mobile,Delhi,Blog,10,140,0,0,0
+S0451,2026-07-21,Referral,Desktop,Mumbai,Product,5,271,0,0,0
+S0452,2026-07-21,Email,Tablet,Delhi,Product,1,34,1,0,0
+S0453,2026-07-21,Organic Search,Tablet,Kolkata,Blog,11,69,0,0,0
+S0454,2026-07-21,Social Media,Tablet,Mumbai,Product,1,10,1,0,0
+S0455,2026-07-21,Referral,Mobile,Chennai,Blog,10,446,0,0,0
+S0456,2026-07-21,Email,Mobile,Kolkata,Product,1,19,1,0,0
+S0457,2026-07-21,Email,Desktop,Mumbai,Home,6,509,0,0,0
+S0458,2026-07-21,Organic Search,Mobile,Pune,Product,7,468,0,0,0
+S0459,2026-07-21,Email,Desktop,Pune,Pricing,10,530,0,0,0
+S0460,2026-07-21,Organic Search,Desktop,Mumbai,Blog,4,576,0,0,0
+S0461,2026-07-21,Email,Desktop,Ahmedabad,Product,8,243,0,1,999
+S0462,2026-07-21,Organic Search,Mobile,Ahmedabad,Product,1,23,1,0,0
+S0463,2026-07-21,Direct,Desktop,Delhi,Contact,12,106,0,0,0
+S0464,2026-07-21,Email,Mobile,Kolkata,Product,6,484,0,0,0
+S0465,2026-07-21,Referral,Mobile,Pune,Product,1,24,1,0,0
+S0466,2026-07-21,Direct,Mobile,Pune,Home,1,15,1,0,0
+S0467,2026-07-21,Email,Mobile,Bangalore,Product,11,430,0,0,0
+S0468,2026-07-21,Organic Search,Mobile,Delhi,Product,9,412,0,0,0
+S0469,2026-07-21,Organic Search,Desktop,Delhi,Home,10,298,0,1,799
+S0470,2026-07-21,Paid Ads,Mobile,Mumbai,Product,1,6,1,0,0
+S0471,2026-07-21,Paid Ads,Desktop,Hyderabad,Home,1,5,1,0,0
+S0472,2026-07-21,Email,Mobile,Hyderabad,Pricing,2,220,0,0,0
+S0473,2026-07-21,Social Media,Desktop,Pune,Home,1,12,1,0,0
+S0474,2026-07-21,Social Media,Mobile,Bangalore,Home,1,5,1,0,0
+S0475,2026-07-22,Direct,Mobile,Delhi,Contact,6,572,0,0,0
+S0476,2026-07-22,Social Media,Desktop,Chennai,Home,11,340,0,0,0
+S0477,2026-07-22,Email,Tablet,Bangalore,Product,7,218,0,1,"1,999"
+S0478,2026-07-22,Organic Search,Desktop,Bangalore,Blog,5,573,0,0,0
+S0479,2026-07-22,Email,Mobile,Kolkata,Product,8,449,0,0,0
+S0480,2026-07-22,Organic Search,Desktop,Chennai,Contact,1,18,1,0,0
+S0481,2026-07-22,Social Media,Desktop,Chennai,Product,4,501,0,0,0
+S0482,2026-07-22,Social Media,Tablet,Hyderabad,Home,1,9,1,0,0
+S0483,2026-07-22,Direct,Mobile,Hyderabad,Pricing,1,25,1,0,0
+S0484,2026-07-22,Social Media,Desktop,Bangalore,Product,10,280,0,0,0
+S0485,2026-07-22,Direct,Desktop,Kolkata,Contact,1,15,1,0,0
+S0486,2026-07-22,Organic Search,Mobile,Pune,Product,6,262,0,0,0
+S0487,2026-07-22,Paid Ads,Mobile,Pune,Pricing,6,354,0,0,0
+S0488,2026-07-22,Organic Search,Desktop,Bangalore,Blog,3,538,0,0,0
+S0489,2026-07-22,Organic Search,Mobile,Kolkata,Blog,1,10,1,0,0
+S0490,2026-07-22,Organic Search,Desktop,Mumbai,Product,1,20,1,0,0
+S0491,2026-07-22,Social Media,Mobile,Pune,Blog,6,191,0,0,0
+S0492,2026-07-22,Referral,Tablet,Delhi,Blog,12,204,0,0,0
+S0493,2026-07-22,Referral,Desktop,Mumbai,Blog,8,140,0,0,0
+S0494,2026-07-22,Organic Search,Mobile,Ahmedabad,Pricing,1,28,1,0,0
+S0495,2026-07-22,Organic Search,Mobile,Kolkata,Home,3,212,0,1,499
+S0496,2026-07-22,Organic Search,Mobile,Bangalore,Contact,7,548,0,0,0
+S0497,2026-07-23,Social Media,Tablet,Delhi,Product,1,24,1,0,0
+S0498,2026-07-23,Direct,Mobile,Bangalore,Contact,9,340,0,0,0
+S0499,2026-07-23,Paid Ads,Mobile,Kolkata,Product,1,28,1,0,0
+S0500,2026-07-23,Social Media,Mobile,Bangalore,Blog,4,176,0,0,0
+S0501,2026-07-23,Referral,Desktop,Kolkata,Blog,12,375,0,0,0
+S0502,2026-07-23,Referral,Mobile,Delhi,Product,1,15,1,0,0
+S0503,2026-07-23,Direct,Tablet,Mumbai,Home,3,325,0,0,0
+S0504,2026-07-23,Organic Search,Mobile,Mumbai,Blog,1,11,1,0,0
+S0505,2026-07-23,Organic Search,Mobile,Bangalore,Pricing,3,254,0,0,0
+S0506,2026-07-23,Organic Search,Mobile,Mumbai,Product,1,18,1,0,0
+S0507,2026-07-23,Social Media,Mobile,Mumbai,Pricing,1,34,1,0,0
+S0508,2026-07-23,Direct,Desktop,Chennai,Home,4,487,0,0,0
+S0509,2026-07-23,Paid Ads,Desktop,Pune,Product,1,24,1,0,0
+S0510,2026-07-23,Social Media,Mobile,Bangalore,Contact,1,23,1,0,0
+S0511,2026-07-23,Organic Search,Desktop,Bangalore,Blog,9,431,0,1,"2,999"
+S0512,2026-07-23,Email,Mobile,Delhi,Product,2,260,0,0,0
+S0513,2026-07-23,Direct,Mobile,Mumbai,Home,7,161,0,0,0
+S0514,2026-07-23,Organic Search,Mobile,Pune,Product,4,129,0,0,0
+S0515,2026-07-23,Direct,Mobile,Kolkata,Home,1,8,1,0,0
+S0516,2026-07-23,Social Media,Desktop,Chennai,Blog,1,33,1,0,0
+S0517,2026-07-23,Social Media,Desktop,Delhi,Product,10,245,0,0,0
+S0518,2026-07-24,Paid Ads,Desktop,Bangalore,Home,11,214,0,0,0
+S0519,2026-07-24,Organic Search,Mobile,Delhi,Contact,7,150,0,1,"2,999"
+S0520,2026-07-24,Email,Mobile,Kolkata,Blog,5,513,0,1,"2,999"
+S0521,2026-07-24,Direct,Mobile,Hyderabad,Home,7,524,0,0,0
+S0522,2026-07-24,Organic Search,Desktop,Pune,Blog,4,304,0,0,0
+S0523,2026-07-24,Paid Ads,Desktop,Mumbai,Product,12,202,0,0,0
+S0524,2026-07-24,Email,Mobile,Hyderabad,Product,2,130,0,0,0
+S0525,2026-07-24,Direct,Desktop,Kolkata,Contact,6,255,0,0,0
+S0526,2026-07-24,Paid Ads,Mobile,Hyderabad,Product,2,416,0,1,999
+S0527,2026-07-24,Referral,Mobile,Pune,Pricing,1,3,1,0,0
+S0528,2026-07-24,Paid Ads,Desktop,Mumbai,Product,1,31,1,0,0
+S0529,2026-07-24,Referral,Desktop,Hyderabad,Pricing,1,12,1,0,0
+S0530,2026-07-24,Organic Search,Mobile,Pune,Home,1,34,1,0,0
+S0531,2026-07-24,Direct,Desktop,Mumbai,Product,2,362,0,1,799
+S0532,2026-07-24,Direct,Mobile,Chennai,Home,8,488,0,0,0
+S0533,2026-07-24,Direct,Desktop,Delhi,Pricing,12,91,0,0,0
+S0534,2026-07-24,Organic Search,Desktop,Mumbai,Product,12,295,0,0,0
+S0535,2026-07-24,Email,Desktop,Chennai,Home,12,550,0,1,"1,499"
+S0536,2026-07-24,Paid Ads,Mobile,Mumbai,Pricing,1,17,1,0,0
+S0537,2026-07-24,Organic Search,Mobile,Kolkata,Blog,1,25,1,0,0
+S0538,2026-07-25,Organic Search,Mobile,Ahmedabad,Blog,1,31,1,0,0
+S0539,2026-07-25,Paid Ads,Desktop,Ahmedabad,Pricing,9,572,0,0,0
+S0540,2026-07-25,Paid Ads,Mobile,Ahmedabad,Home,3,535,0,0,0
+S0541,2026-07-25,Direct,Tablet,Mumbai,Home,1,30,1,0,0
+S0542,2026-07-25,Email,Desktop,Chennai,Product,10,492,0,0,0
+S0543,2026-07-25,Organic Search,Mobile,Mumbai,Product,1,8,1,0,0
+S0544,2026-07-25,Direct,Mobile,Hyderabad,Home,1,17,1,0,0
+S0545,2026-07-25,Social Media,Mobile,Bangalore,Blog,1,32,1,0,0
+S0546,2026-07-25,Referral,Mobile,Chennai,Product,1,29,1,0,0
+S0547,2026-07-25,Organic Search,Mobile,Kolkata,Home,3,270,0,0,0
+S0548,2026-07-25,Organic Search,Desktop,Delhi,Blog,6,401,0,0,0
+S0549,2026-07-25,Organic Search,Mobile,Delhi,Blog,3,421,0,0,0
+S0550,2026-07-25,Organic Search,Mobile,Mumbai,Pricing,1,28,1,0,0
+S0551,2026-07-25,Paid Ads,Tablet,Mumbai,Contact,8,97,0,0,0
+S0552,2026-07-25,Social Media,Mobile,Kolkata,Home,7,122,0,0,0
+S0553,2026-07-25,Organic Search,Mobile,Bangalore,Blog,12,404,0,1,"4,999"
+S0554,2026-07-25,Referral,Desktop,Bangalore,Home,3,494,0,0,0
+S0555,2026-07-25,Referral,Mobile,Bangalore,Home,2,131,0,0,0
+S0556,2026-07-25,Paid Ads,Mobile,Bangalore,Product,1,18,1,0,0
+S0557,2026-07-26,Referral,Mobile,Kolkata,Product,9,403,0,0,0
+S0558,2026-07-26,Email,Desktop,Hyderabad,Contact,11,201,0,1,"1,499"
+S0559,2026-07-26,Paid Ads,Desktop,Bangalore,Product,1,17,1,0,0
+S0560,2026-07-26,Direct,Mobile,Mumbai,Product,6,323,0,0,0
+S0561,2026-07-26,Direct,Tablet,Pune,Product,6,373,0,0,0
+S0562,2026-07-26,Email,Mobile,Kolkata,Contact,4,354,0,1,999
+S0563,2026-07-26,Direct,Tablet,Delhi,Home,2,374,0,0,0
+S0564,2026-07-26,Email,Desktop,Delhi,Product,8,265,0,0,0
+S0565,2026-07-26,Organic Search,Desktop,Delhi,Home,8,51,0,0,0
+S0566,2026-07-26,Referral,Desktop,Chennai,Product,3,82,0,0,0
+S0567,2026-07-26,Social Media,Mobile,Bangalore,Product,1,32,1,0,0
+S0568,2026-07-26,Organic Search,Mobile,Delhi,Blog,4,89,0,0,0
+S0569,2026-07-26,Social Media,Mobile,Bangalore,Pricing,1,29,1,0,0
+S0570,2026-07-26,Referral,Tablet,Chennai,Blog,1,3,1,0,0
+S0571,2026-07-26,Social Media,Mobile,Kolkata,Blog,10,554,0,0,0
+S0572,2026-07-26,Paid Ads,Desktop,Mumbai,Pricing,3,113,0,0,0
+S0573,2026-07-26,Direct,Desktop,Mumbai,Home,1,27,1,0,0
+S0574,2026-07-27,Organic Search,Mobile,Bangalore,Pricing,8,65,0,0,0
+S0575,2026-07-27,Social Media,Mobile,Bangalore,Home,7,261,0,0,0
+S0576,2026-07-27,Direct,Mobile,Hyderabad,Blog,1,18,1,0,0
+S0577,2026-07-27,Organic Search,Mobile,Chennai,Blog,12,364,0,0,0
+S0578,2026-07-27,Organic Search,Mobile,Bangalore,Blog,1,12,1,0,0
+S0579,2026-07-27,Organic Search,Mobile,Bangalore,Blog,10,371,0,0,0
+S0580,2026-07-27,Social Media,Desktop,Chennai,Blog,5,234,0,0,0
+S0581,2026-07-27,Organic Search,Mobile,Ahmedabad,Product,2,412,0,0,0
+S0582,2026-07-27,Email,Desktop,Ahmedabad,Blog,7,395,0,0,0
+S0583,2026-07-27,Paid Ads,Tablet,Pune,Product,1,32,1,0,0
+S0584,2026-07-27,Organic Search,Mobile,Pune,Pricing,1,7,1,0,0
+S0585,2026-07-27,Social Media,Mobile,Delhi,Blog,1,15,1,0,0
+S0586,2026-07-27,Organic Search,Mobile,Kolkata,Blog,1,34,1,0,0
+S0587,2026-07-27,Email,Mobile,Delhi,Pricing,8,366,0,0,0
+S0588,2026-07-27,Organic Search,Desktop,Bangalore,Product,9,488,0,0,0
+S0589,2026-07-27,Organic Search,Desktop,Pune,Product,1,16,1,0,0
+S0590,2026-07-27,Paid Ads,Desktop,Bangalore,Home,9,557,0,0,0
+S0591,2026-07-27,Organic Search,Mobile,Chennai,Blog,2,209,0,0,0
+S0592,2026-07-27,Direct,Mobile,Delhi,Pricing,1,26,1,0,0
+S0593,2026-07-27,Organic Search,Mobile,Kolkata,Blog,1,22,1,0,0
+S0594,2026-07-28,Social Media,Tablet,Mumbai,Pricing,1,18,1,0,0
+S0595,2026-07-28,Social Media,Mobile,Kolkata,Product,1,34,1,0,0
+S0596,2026-07-28,Direct,Desktop,Pune,Home,10,585,0,0,0
+S0597,2026-07-28,Email,Mobile,Bangalore,Home,11,531,0,0,0
+S0598,2026-07-28,Social Media,Mobile,Hyderabad,Product,1,21,1,0,0
+S0599,2026-07-28,Organic Search,Mobile,Delhi,Product,7,414,0,0,0
+S0600,2026-07-28,Organic Search,Mobile,Delhi,Blog,1,19,1,0,0
+S0601,2026-07-28,Organic Search,Desktop,Kolkata,Blog,1,21,1,0,0
+S0602,2026-07-28,Organic Search,Desktop,Delhi,Product,1,27,1,0,0
+S0603,2026-07-28,Organic Search,Desktop,Bangalore,Blog,8,105,0,0,0
+S0604,2026-07-28,Organic Search,Desktop,Chennai,Contact,1,4,1,0,0
+S0605,2026-07-28,Social Media,Desktop,Hyderabad,Blog,1,32,1,0,0
+S0606,2026-07-28,Direct,Mobile,Bangalore,Home,1,35,1,0,0
+S0607,2026-07-28,Direct,Tablet,Delhi,Pricing,11,126,0,0,0
+S0608,2026-07-28,Social Media,Mobile,Bangalore,Blog,1,7,1,0,0
+S0609,2026-07-28,Paid Ads,Tablet,Bangalore,Product,1,20,1,0,0
+S0610,2026-07-28,Email,Mobile,Delhi,Pricing,7,291,0,0,0
+S0611,2026-07-28,Social Media,Desktop,Kolkata,Blog,7,147,0,0,0
+S0612,2026-07-29,Organic Search,Desktop,Bangalore,Blog,8,506,0,0,0
+S0613,2026-07-29,Direct,Desktop,Mumbai,Product,7,421,0,1,999
+S0614,2026-07-29,Organic Search,Desktop,Mumbai,Pricing,7,72,0,0,0
+S0615,2026-07-29,Direct,Mobile,Delhi,Home,1,9,1,0,0
+S0616,2026-07-29,Social Media,Desktop,Mumbai,Home,4,513,0,0,0
+S0617,2026-07-29,Paid Ads,Desktop,Pune,Pricing,4,432,0,0,0
+S0618,2026-07-29,Direct,Mobile,Mumbai,Product,11,108,0,0,0
+S0619,2026-07-29,Social Media,Mobile,Kolkata,Blog,7,364,0,0,0
+S0620,2026-07-29,Direct,Desktop,Hyderabad,Product,10,443,0,0,0
+S0621,2026-07-29,Organic Search,Desktop,Delhi,Blog,11,191,0,0,0
+S0622,2026-07-29,Paid Ads,Mobile,Mumbai,Product,5,368,0,0,0
+S0623,2026-07-29,Organic Search,Mobile,Mumbai,Blog,1,28,1,0,0
+S0624,2026-07-29,Referral,Desktop,Delhi,Product,1,19,1,0,0
+S0625,2026-07-29,Organic Search,Desktop,Pune,Pricing,1,34,1,0,0
+S0626,2026-07-29,Social Media,Mobile,Bangalore,Home,1,29,1,0,0
+S0627,2026-07-29,Organic Search,Desktop,Pune,Blog,12,532,0,0,0
+S0628,2026-07-29,Direct,Desktop,Mumbai,Pricing,2,228,0,0,0
+S0629,2026-07-29,Direct,Desktop,Bangalore,Home,6,166,0,1,499
+S0630,2026-07-29,Social Media,Desktop,Delhi,Blog,1,20,1,0,0
+S0631,2026-07-29,Social Media,Desktop,Mumbai,Pricing,1,18,1,0,0
+S0632,2026-07-29,Referral,Desktop,Kolkata,Contact,4,410,0,0,0
+S0633,2026-07-29,Social Media,Desktop,Bangalore,Home,1,21,1,0,0
+S0634,2026-07-29,Direct,Desktop,Bangalore,Home,1,23,1,0,0
+S0635,2026-07-29,Organic Search,Mobile,Delhi,Product,7,590,0,0,0
+S0636,2026-07-29,Direct,Desktop,Delhi,Blog,1,14,1,0,0
+S0637,2026-07-29,Organic Search,Desktop,Mumbai,Home,4,185,0,0,0
+S0638,2026-07-29,Organic Search,Mobile,Mumbai,Product,1,3,1,0,0
+S0639,2026-07-29,Organic Search,Mobile,Hyderabad,Blog,4,550,0,0,0
+S0640,2026-07-29,Organic Search,Desktop,Kolkata,Home,5,299,0,0,0
+S0641,2026-07-29,Organic Search,Mobile,Chennai,Home,3,575,0,0,0
+S0642,2026-07-29,Organic Search,Tablet,Hyderabad,Blog,1,26,1,0,0
+S0643,2026-07-30,Organic Search,Mobile,Mumbai,Home,8,329,0,0,0
+S0644,2026-07-30,Direct,Desktop,Chennai,Product,8,487,0,1,"1,999"
+S0645,2026-07-30,Paid Ads,Mobile,Pune,Product,1,20,1,0,0
+S0646,2026-07-30,Direct,Mobile,Pune,Home,4,147,0,0,0
+S0647,2026-07-30,Social Media,Desktop,Chennai,Home,1,25,1,0,0
+S0648,2026-07-30,Email,Desktop,Mumbai,Pricing,5,71,0,0,0
+S0649,2026-07-30,Social Media,Desktop,Delhi,Product,1,3,1,0,0
+S0650,2026-07-30,Paid Ads,Tablet,Hyderabad,Product,8,128,0,0,0
+S0651,2026-07-30,Social Media,Desktop,Ahmedabad,Product,1,10,1,0,0
+S0652,2026-07-30,Paid Ads,Mobile,Kolkata,Product,1,12,1,0,0
+S0653,2026-07-30,Organic Search,Mobile,Delhi,Blog,8,335,0,0,0
+S0654,2026-07-30,Direct,Desktop,Mumbai,Home,12,541,0,0,0
+S0655,2026-07-30,Paid Ads,Mobile,Mumbai,Product,1,28,1,0,0
+S0656,2026-07-30,Organic Search,Mobile,Hyderabad,Blog,4,406,0,0,0
+S0657,2026-07-30,Direct,Mobile,Mumbai,Home,7,532,0,0,0
+S0658,2026-07-30,Social Media,Mobile,Bangalore,Blog,7,545,0,0,0
+S0659,2026-07-30,Social Media,Mobile,Bangalore,Pricing,9,513,0,0,0
+S0660,2026-07-30,Social Media,Tablet,Mumbai,Blog,2,118,0,0,0
+S0661,2026-07-30,Referral,Mobile,Hyderabad,Blog,10,293,0,0,0
+S0662,2026-07-30,Email,Desktop,Ahmedabad,Pricing,10,488,0,0,0
+S0663,2026-07-31,Organic Search,Desktop,Pune,Home,1,34,1,0,0
+S0664,2026-07-31,Organic Search,Mobile,Bangalore,Blog,1,18,1,0,0
+S0665,2026-07-31,Direct,Mobile,Mumbai,Product,6,192,0,0,0
+S0666,2026-07-31,Social Media,Mobile,Mumbai,Home,1,6,1,0,0
+S0667,2026-07-31,Direct,Desktop,Chennai,Home,5,429,0,0,0
+S0668,2026-07-31,Organic Search,Mobile,Mumbai,Blog,1,10,1,0,0
+S0669,2026-07-31,Organic Search,Mobile,Kolkata,Product,7,91,0,1,"1,999"
+S0670,2026-07-31,Organic Search,Mobile,Kolkata,Product,11,494,0,0,0
+S0671,2026-07-31,Direct,Mobile,Delhi,Product,11,499,0,0,0
+S0672,2026-07-31,Direct,Desktop,Delhi,Home,12,453,0,0,0
+S0673,2026-07-31,Email,Desktop,Bangalore,Pricing,5,438,0,1,499
+S0674,2026-07-31,Paid Ads,Mobile,Delhi,Home,10,311,0,0,0
+S0675,2026-07-31,Direct,Mobile,Chennai,Contact,1,14,1,0,0
+S0676,2026-07-31,Paid Ads,Desktop,Mumbai,Product,1,15,1,0,0
+S0677,2026-07-31,Paid Ads,Mobile,Bangalore,Pricing,1,23,1,0,0
+S0678,2026-07-31,Direct,Mobile,Pune,Home,1,4,1,0,0
+S0679,2026-07-31,Referral,Desktop,Delhi,Blog,9,80,0,0,0
+S0680,2026-07-31,Organic Search,Desktop,Chennai,Pricing,6,379,0,0,0
+S0681,2026-07-31,Social Media,Desktop,Pune,Home,3,301,0,0,0
+S0682,2026-07-31,Social Media,Mobile,Delhi,Product,1,32,1,0,0
+S0683,2026-08-01,Social Media,Mobile,Delhi,Home,1,13,1,0,0
+S0684,2026-08-01,Organic Search,Mobile,Mumbai,Blog,12,390,0,0,0
+S0685,2026-08-01,Email,Desktop,Bangalore,Contact,4,434,0,1,999
+S0686,2026-08-01,Paid Ads,Desktop,Kolkata,Pricing,1,23,1,0,0
+S0687,2026-08-01,Social Media,Desktop,Ahmedabad,Product,9,516,0,0,0
+S0688,2026-08-01,Organic Search,Desktop,Pune,Product,9,174,0,1,"4,999"
+S0689,2026-08-01,Email,Desktop,Kolkata,Pricing,9,298,0,0,0
+S0690,2026-08-01,Direct,Mobile,Mumbai,Home,1,5,1,0,0
+S0691,2026-08-01,Direct,Mobile,Mumbai,Blog,1,22,1,0,0
+S0692,2026-08-01,Paid Ads,Mobile,Delhi,Product,1,20,1,0,0
+S0693,2026-08-01,Referral,Mobile,Bangalore,Product,4,416,0,0,0
+S0694,2026-08-01,Organic Search,Mobile,Bangalore,Home,12,178,0,0,0
+S0695,2026-08-01,Organic Search,Tablet,Mumbai,Blog,1,32,1,0,0
+S0696,2026-08-01,Social Media,Mobile,Delhi,Home,1,18,1,0,0
+S0697,2026-08-01,Paid Ads,Mobile,Kolkata,Blog,12,440,0,0,0
+S0698,2026-08-01,Social Media,Mobile,Mumbai,Product,1,26,1,0,0
+S0699,2026-08-01,Referral,Desktop,Mumbai,Blog,1,14,1,0,0
+S0700,2026-08-01,Paid Ads,Mobile,Kolkata,Pricing,1,26,1,0,0
+S0701,2026-08-01,Social Media,Mobile,Pune,Home,5,238,0,0,0
+S0702,2026-08-01,Direct,Desktop,Pune,Home,3,475,0,0,0
+S0703,2026-08-02,Organic Search,Mobile,Hyderabad,Home,9,348,0,0,0
+S0704,2026-08-02,Social Media,Mobile,Mumbai,Home,1,14,1,0,0
+S0705,2026-08-02,Social Media,Mobile,Hyderabad,Home,1,9,1,0,0
+S0706,2026-08-02,Direct,Mobile,Delhi,Product,1,29,1,0,0
+S0707,2026-08-02,Social Media,Desktop,Mumbai,Product,1,13,1,0,0
+S0708,2026-08-02,Organic Search,Desktop,Bangalore,Blog,1,22,1,0,0
+S0709,2026-08-02,Organic Search,Desktop,Mumbai,Pricing,9,229,0,0,0
+S0710,2026-08-02,Organic Search,Mobile,Kolkata,Contact,1,18,1,0,0
+S0711,2026-08-02,Referral,Mobile,Bangalore,Home,1,28,1,0,0
+S0712,2026-08-02,Organic Search,Mobile,Mumbai,Home,4,359,0,0,0
+S0713,2026-08-02,Direct,Mobile,Chennai,Contact,1,33,1,0,0
+S0714,2026-08-02,Social Media,Mobile,Bangalore,Product,1,15,1,0,0
+S0715,2026-08-02,Organic Search,Mobile,Kolkata,Pricing,2,324,0,1,999
+S0716,2026-08-02,Referral,Mobile,Kolkata,Contact,3,488,0,0,0
+S0717,2026-08-02,Direct,Mobile,Ahmedabad,Home,12,364,0,0,0
+S0718,2026-08-02,Direct,Tablet,Hyderabad,Home,3,296,0,0,0
+S0719,2026-08-02,Direct,Desktop,Mumbai,Product,5,45,0,0,0
+S0720,2026-08-02,Direct,Mobile,Delhi,Home,9,519,0,0,0
+S0721,2026-08-02,Paid Ads,Desktop,Mumbai,Product,1,30,1,0,0
+S0722,2026-08-02,Organic Search,Mobile,Chennai,Blog,11,133,0,0,0
+S0723,2026-08-02,Social Media,Mobile,Kolkata,Product,11,233,0,0,0
+S0724,2026-08-02,Organic Search,Desktop,Pune,Blog,3,586,0,0,0
+S0725,2026-08-03,Social Media,Desktop,Mumbai,Product,1,19,1,0,0
+S0726,2026-08-03,Organic Search,Tablet,Mumbai,Contact,1,30,1,0,0
+S0727,2026-08-03,Social Media,Desktop,Hyderabad,Product,12,328,0,0,0
+S0728,2026-08-03,Organic Search,Tablet,Bangalore,Blog,1,11,1,0,0
+S0729,2026-08-03,Referral,Desktop,Bangalore,Contact,8,442,0,0,0
+S0730,2026-08-03,Email,Desktop,Mumbai,Product,12,123,0,0,0
+S0731,2026-08-03,Organic Search,Desktop,Delhi,Pricing,1,18,1,0,0
+S0732,2026-08-03,Email,Mobile,Hyderabad,Home,1,6,1,0,0
+S0733,2026-08-03,Referral,Mobile,Mumbai,Home,5,484,0,0,0
+S0734,2026-08-03,Social Media,Mobile,Pune,Product,2,391,0,0,0
+S0735,2026-08-03,Paid Ads,Desktop,Hyderabad,Product,11,266,0,0,0
+S0736,2026-08-03,Direct,Mobile,Mumbai,Contact,3,282,0,0,0
+S0737,2026-08-03,Organic Search,Mobile,Hyderabad,Product,4,579,0,0,0
+S0738,2026-08-03,Organic Search,Mobile,Mumbai,Blog,1,35,1,0,0
+S0739,2026-08-03,Organic Search,Desktop,Bangalore,Pricing,12,237,0,0,0
+S0740,2026-08-03,Organic Search,Mobile,Ahmedabad,Home,4,332,0,0,0
+S0741,2026-08-04,Email,Mobile,Kolkata,Product,1,23,1,0,0
+S0742,2026-08-04,Paid Ads,Mobile,Delhi,Product,6,56,0,0,0
+S0743,2026-08-04,Email,Mobile,Bangalore,Pricing,7,600,0,0,0
+S0744,2026-08-04,Organic Search,Tablet,Delhi,Blog,11,136,0,0,0
+S0745,2026-08-04,Social Media,Tablet,Hyderabad,Blog,10,487,0,0,0
+S0746,2026-08-04,Social Media,Desktop,Bangalore,Pricing,1,20,1,0,0
+S0747,2026-08-04,Organic Search,Mobile,Mumbai,Blog,1,3,1,0,0
+S0748,2026-08-04,Email,Mobile,Bangalore,Contact,9,390,0,0,0
+S0749,2026-08-04,Organic Search,Desktop,Delhi,Product,1,17,1,0,0
+S0750,2026-08-04,Social Media,Desktop,Chennai,Home,1,28,1,0,0
+S0751,2026-08-04,Organic Search,Desktop,Bangalore,Home,3,120,0,0,0
+S0752,2026-08-04,Organic Search,Desktop,Bangalore,Blog,1,16,1,0,0
+S0753,2026-08-04,Paid Ads,Desktop,Hyderabad,Product,1,20,1,0,0
+S0754,2026-08-04,Social Media,Mobile,Mumbai,Product,9,595,0,0,0
+S0755,2026-08-04,Organic Search,Desktop,Delhi,Product,2,557,0,0,0
+S0756,2026-08-04,Email,Desktop,Chennai,Product,11,583,0,1,"1,999"
+S0757,2026-08-04,Paid Ads,Desktop,Kolkata,Product,3,507,0,0,0
+S0758,2026-08-04,Direct,Desktop,Bangalore,Home,12,112,0,1,"1,499"
+S0759,2026-08-04,Direct,Desktop,Kolkata,Pricing,4,291,0,0,0
+S0760,2026-08-05,Paid Ads,Desktop,Kolkata,Product,1,24,1,0,0
+S0761,2026-08-05,Social Media,Mobile,Mumbai,Blog,5,520,0,0,0
+S0762,2026-08-05,Organic Search,Desktop,Chennai,Pricing,7,510,0,0,0
+S0763,2026-08-05,Direct,Mobile,Delhi,Contact,1,12,1,0,0
+S0764,2026-08-05,Organic Search,Mobile,Ahmedabad,Blog,1,22,1,0,0
+S0765,2026-08-05,Social Media,Mobile,Bangalore,Home,1,13,1,0,0
+S0766,2026-08-05,Direct,Desktop,Ahmedabad,Home,7,449,0,0,0
+S0767,2026-08-05,Organic Search,Mobile,Chennai,Blog,10,203,0,0,0
+S0768,2026-08-05,Paid Ads,Desktop,Kolkata,Product,1,24,1,0,0
+S0769,2026-08-05,Organic Search,Desktop,Bangalore,Blog,3,580,0,0,0
+S0770,2026-08-05,Paid Ads,Mobile,Ahmedabad,Home,1,12,1,0,0
+S0771,2026-08-05,Organic Search,Mobile,Kolkata,Product,4,88,0,0,0
+S0772,2026-08-05,Organic Search,Mobile,Kolkata,Home,8,334,0,0,0
+S0773,2026-08-05,Organic Search,Mobile,Bangalore,Home,3,166,0,1,499
+S0774,2026-08-05,Organic Search,Tablet,Chennai,Blog,10,279,0,0,0
+S0775,2026-08-05,Social Media,Mobile,Bangalore,Blog,6,97,0,0,0
+S0776,2026-08-05,Social Media,Mobile,Delhi,Blog,1,4,1,0,0
+S0777,2026-08-05,Social Media,Mobile,Delhi,Product,1,33,1,0,0
+S0778,2026-08-05,Social Media,Desktop,Delhi,Product,1,5,1,0,0
+S0779,2026-08-05,Organic Search,Desktop,Hyderabad,Blog,1,11,1,0,0
+S0780,2026-08-05,Social Media,Mobile,Kolkata,Home,1,34,1,0,0
+S0781,2026-08-05,Social Media,Mobile,Bangalore,Blog,1,30,1,0,0
+S0782,2026-08-05,Email,Mobile,Chennai,Pricing,11,529,0,0,0
+S0783,2026-08-05,Social Media,Mobile,Ahmedabad,Blog,1,4,1,0,0
+S0784,2026-08-05,Social Media,Mobile,Mumbai,Product,1,32,1,0,0
+S0785,2026-08-05,Referral,Mobile,Ahmedabad,Product,1,15,1,0,0
+S0786,2026-08-05,Social Media,Mobile,Kolkata,Product,1,31,1,0,0
+S0787,2026-08-05,Direct,Desktop,Pune,Home,12,565,0,0,0
+S0788,2026-08-05,Direct,Mobile,Bangalore,Product,1,17,1,0,0
+S0789,2026-08-05,Paid Ads,Desktop,Bangalore,Pricing,6,500,0,0,0
+S0790,2026-08-05,Direct,Mobile,Delhi,Contact,10,471,0,1,"4,999"
+S0791,2026-08-05,Paid Ads,Mobile,Bangalore,Pricing,1,16,1,0,0
+S0792,2026-08-05,Direct,Desktop,Bangalore,Home,4,521,0,0,0
+S0793,2026-08-06,Organic Search,Mobile,Pune,Blog,1,34,1,0,0
+S0794,2026-08-06,Social Media,Desktop,Mumbai,Home,1,24,1,0,0
+S0795,2026-08-06,Referral,Mobile,Kolkata,Product,9,117,0,0,0
+S0796,2026-08-06,Organic Search,Mobile,Kolkata,Pricing,1,8,1,0,0
+S0797,2026-08-06,Email,Desktop,Chennai,Home,9,187,0,0,0
+S0798,2026-08-06,Organic Search,Mobile,Delhi,Contact,9,249,0,0,0
+S0799,2026-08-06,Direct,Mobile,Hyderabad,Product,1,30,1,0,0
+S0800,2026-08-06,Paid Ads,Tablet,Kolkata,Product,6,380,0,1,"1,499"
+S0801,2026-08-06,Direct,Mobile,Hyderabad,Home,1,24,1,0,0
+S0802,2026-08-06,Organic Search,Desktop,Mumbai,Blog,1,10,1,0,0
+S0803,2026-08-06,Direct,Desktop,Ahmedabad,Contact,7,310,0,0,0
+S0804,2026-08-06,Organic Search,Mobile,Delhi,Blog,11,175,0,0,0
+S0805,2026-08-06,Social Media,Desktop,Delhi,Product,12,173,0,0,0
+S0806,2026-08-06,Organic Search,Desktop,Mumbai,Blog,12,202,0,1,"1,499"
+S0807,2026-08-06,Direct,Desktop,Kolkata,Product,8,298,0,0,0
+S0808,2026-08-06,Organic Search,Desktop,Kolkata,Home,3,99,0,0,0
+S0809,2026-08-06,Social Media,Mobile,Mumbai,Product,1,13,1,0,0
+S0810,2026-08-06,Organic Search,Mobile,Chennai,Pricing,11,481,0,0,0
+S0811,2026-08-06,Direct,Mobile,Delhi,Product,2,585,0,0,0
+S0812,2026-08-06,Referral,Mobile,Mumbai,Home,1,20,1,0,0
+S0813,2026-08-06,Social Media,Mobile,Hyderabad,Product,1,7,1,0,0
+S0814,2026-08-07,Social Media,Desktop,Kolkata,Product,5,224,0,0,0
+S0815,2026-08-07,Social Media,Desktop,Chennai,Contact,1,7,1,0,0
+S0816,2026-08-07,Organic Search,Mobile,Mumbai,Product,11,449,0,0,0
+S0817,2026-08-07,Email,Mobile,Chennai,Pricing,4,85,0,0,0
+S0818,2026-08-07,Direct,Desktop,Bangalore,Product,12,599,0,0,0
+S0819,2026-08-07,Social Media,Mobile,Bangalore,Home,11,195,0,0,0
+S0820,2026-08-07,Organic Search,Desktop,Chennai,Blog,10,123,0,0,0
+S0821,2026-08-07,Social Media,Desktop,Pune,Home,10,555,0,0,0
+S0822,2026-08-07,Social Media,Mobile,Delhi,Product,1,3,1,0,0
+S0823,2026-08-07,Social Media,Mobile,Kolkata,Blog,9,188,0,0,0
+S0824,2026-08-07,Paid Ads,Mobile,Kolkata,Pricing,1,6,1,0,0
+S0825,2026-08-07,Organic Search,Mobile,Chennai,Blog,10,560,0,0,0
+S0826,2026-08-07,Organic Search,Mobile,Bangalore,Blog,1,17,1,0,0
+S0827,2026-08-07,Referral,Tablet,Pune,Product,1,27,1,0,0
+S0828,2026-08-07,Email,Mobile,Ahmedabad,Contact,10,476,0,0,0
+S0829,2026-08-07,Direct,Desktop,Kolkata,Contact,3,376,0,0,0
+S0830,2026-08-07,Email,Mobile,Pune,Pricing,5,581,0,0,0
+S0831,2026-08-07,Direct,Desktop,Hyderabad,Home,12,469,0,0,0
+S0832,2026-08-07,Direct,Mobile,Kolkata,Pricing,5,390,0,0,0
+S0833,2026-08-07,Paid Ads,Desktop,Pune,Home,1,35,1,0,0
+S0834,2026-08-07,Paid Ads,Desktop,Chennai,Home,1,32,1,0,0
+S0835,2026-08-07,Paid Ads,Desktop,Bangalore,Home,1,28,1,0,0
+S0836,2026-08-07,Direct,Mobile,Ahmedabad,Product,1,29,1,0,0
+S0837,2026-08-08,Organic Search,Mobile,Chennai,Blog,3,188,0,1,499
+S0838,2026-08-08,Social Media,Desktop,Pune,Pricing,1,4,1,0,0
+S0839,2026-08-08,Organic Search,Mobile,Bangalore,Home,4,306,0,0,0
+S0840,2026-08-08,Social Media,Mobile,Kolkata,Product,11,102,0,0,0
+S0841,2026-08-08,Organic Search,Mobile,Bangalore,Product,5,545,0,0,0
+S0842,2026-08-08,Direct,Desktop,Mumbai,Pricing,9,577,0,0,0
+S0843,2026-08-08,Social Media,Desktop,Bangalore,Blog,1,25,1,0,0
+S0844,2026-08-08,Organic Search,Desktop,Kolkata,Blog,6,493,0,0,0
+S0845,2026-08-08,Social Media,Desktop,Delhi,Blog,1,30,1,0,0
+S0846,2026-08-08,Paid Ads,Desktop,Bangalore,Contact,1,17,1,0,0
+S0847,2026-08-08,Referral,Desktop,Pune,Pricing,1,27,1,0,0
+S0848,2026-08-08,Organic Search,Desktop,Delhi,Blog,1,22,1,0,0
+S0849,2026-08-08,Referral,Desktop,Pune,Home,1,25,1,0,0
+S0850,2026-08-08,Email,Mobile,Kolkata,Product,2,403,0,0,0
+S0851,2026-08-08,Social Media,Desktop,Mumbai,Pricing,6,401,0,0,0
+S0852,2026-08-08,Organic Search,Mobile,Pune,Pricing,1,25,1,0,0
+S0853,2026-08-08,Paid Ads,Mobile,Kolkata,Product,10,248,0,0,0
+S0854,2026-08-08,Referral,Desktop,Pune,Home,1,17,1,0,0
+S0855,2026-08-08,Direct,Mobile,Mumbai,Home,1,20,1,0,0
+S0856,2026-08-08,Organic Search,Mobile,Kolkata,Pricing,10,329,0,0,0
+S0857,2026-08-08,Organic Search,Desktop,Delhi,Pricing,11,534,0,0,0
+S0858,2026-08-08,Email,Mobile,Pune,Product,7,543,0,0,0
+S0859,2026-08-08,Paid Ads,Desktop,Hyderabad,Pricing,5,529,0,0,0
+S0860,2026-08-09,Direct,Mobile,Delhi,Contact,1,18,1,0,0
+S0861,2026-08-09,Social Media,Mobile,Ahmedabad,Home,1,15,1,0,0
+S0862,2026-08-09,Email,Mobile,Mumbai,Pricing,8,451,0,0,0
+S0863,2026-08-09,Social Media,Desktop,Kolkata,Home,7,51,0,0,0
+S0864,2026-08-09,Organic Search,Mobile,Delhi,Home,5,386,0,0,0
+S0865,2026-08-09,Direct,Desktop,Bangalore,Product,8,305,0,0,0
+S0866,2026-08-09,Organic Search,Tablet,Pune,Blog,1,5,1,0,0
+S0867,2026-08-09,Social Media,Desktop,Kolkata,Home,12,326,0,0,0
+S0868,2026-08-09,Organic Search,Mobile,Mumbai,Blog,1,23,1,0,0
+S0869,2026-08-09,Paid Ads,Desktop,Bangalore,Home,7,598,0,0,0
+S0870,2026-08-09,Organic Search,Mobile,Chennai,Pricing,5,232,0,0,0
+S0871,2026-08-09,Direct,Mobile,Hyderabad,Home,11,117,0,0,0
+S0872,2026-08-09,Social Media,Desktop,Hyderabad,Product,1,10,1,0,0
+S0873,2026-08-09,Organic Search,Desktop,Bangalore,Blog,12,202,0,0,0
+S0874,2026-08-09,Paid Ads,Mobile,Mumbai,Product,1,30,1,0,0
+S0875,2026-08-09,Organic Search,Mobile,Mumbai,Product,1,33,1,0,0
+S0876,2026-08-09,Direct,Tablet,Kolkata,Home,8,352,0,0,0
+S0877,2026-08-09,Social Media,Mobile,Bangalore,Product,1,19,1,0,0
+S0878,2026-08-09,Paid Ads,Desktop,Chennai,Home,3,402,0,0,0
+S0879,2026-08-09,Organic Search,Mobile,Kolkata,Blog,10,115,0,1,799
+S0880,2026-08-09,Direct,Mobile,Bangalore,Home,8,68,0,1,999
+S0881,2026-08-09,Social Media,Mobile,Delhi,Blog,8,140,0,0,0
+S0882,2026-08-09,Organic Search,Desktop,Mumbai,Blog,5,224,0,0,0
+S0883,2026-08-10,Direct,Mobile,Mumbai,Pricing,1,14,1,0,0
+S0884,2026-08-10,Organic Search,Mobile,Pune,Pricing,8,440,0,0,0
+S0885,2026-08-10,Referral,Mobile,Delhi,Home,11,459,0,0,0
+S0886,2026-08-10,Paid Ads,Mobile,Delhi,Product,1,10,1,0,0
+S0887,2026-08-10,Organic Search,Desktop,Bangalore,Blog,3,50,0,0,0
+S0888,2026-08-10,Organic Search,Desktop,Hyderabad,Blog,5,121,0,0,0
+S0889,2026-08-10,Organic Search,Desktop,Bangalore,Blog,6,301,0,0,0
+S0890,2026-08-10,Organic Search,Desktop,Delhi,Product,1,22,1,0,0
+S0891,2026-08-10,Organic Search,Mobile,Hyderabad,Blog,12,353,0,0,0
+S0892,2026-08-10,Organic Search,Desktop,Mumbai,Pricing,12,461,0,0,0
+S0893,2026-08-10,Direct,Desktop,Hyderabad,Blog,2,331,0,0,0
+S0894,2026-08-10,Organic Search,Mobile,Bangalore,Blog,1,16,1,0,0
+S0895,2026-08-10,Paid Ads,Mobile,Kolkata,Product,9,531,0,0,0
+S0896,2026-08-10,Email,Mobile,Mumbai,Product,7,594,0,0,0
+S0897,2026-08-10,Direct,Mobile,Mumbai,Home,1,20,1,0,0
+S0898,2026-08-10,Organic Search,Desktop,Bangalore,Pricing,8,71,0,0,0
+S0899,2026-08-10,Organic Search,Desktop,Mumbai,Product,9,490,0,0,0
+S0900,2026-08-10,Organic Search,Mobile,Chennai,Contact,1,34,1,0,0
+S0901,2026-08-11,Email,Desktop,Delhi,Product,1,28,1,0,0
+S0902,2026-08-11,Direct,Mobile,Mumbai,Home,11,131,0,0,0
+S0903,2026-08-11,Referral,Desktop,Delhi,Product,8,522,0,0,0
+S0904,2026-08-11,Organic Search,Mobile,Kolkata,Blog,2,343,0,0,0
+S0905,2026-08-11,Email,Desktop,Ahmedabad,Home,5,535,0,0,0
+S0906,2026-08-11,Direct,Tablet,Chennai,Product,7,178,0,0,0
+S0907,2026-08-11,Organic Search,Desktop,Ahmedabad,Product,12,112,0,0,0
+S0908,2026-08-11,Email,Desktop,Kolkata,Pricing,1,18,1,0,0
+S0909,2026-08-11,Email,Mobile,Mumbai,Pricing,1,12,1,0,0
+S0910,2026-08-11,Paid Ads,Mobile,Delhi,Product,10,514,0,0,0
+S0911,2026-08-11,Organic Search,Mobile,Pune,Blog,4,544,0,0,0
+S0912,2026-08-11,Referral,Mobile,Kolkata,Blog,1,27,1,0,0
+S0913,2026-08-11,Paid Ads,Mobile,Hyderabad,Product,1,4,1,0,0
+S0914,2026-08-11,Direct,Desktop,Ahmedabad,Product,1,11,1,0,0
+S0915,2026-08-11,Paid Ads,Desktop,Mumbai,Product,1,32,1,0,0
+S0916,2026-08-11,Social Media,Desktop,Kolkata,Product,1,26,1,0,0
+S0917,2026-08-11,Email,Desktop,Mumbai,Pricing,3,71,0,0,0
+S0918,2026-08-11,Organic Search,Mobile,Chennai,Home,8,276,0,0,0
+S0919,2026-08-11,Social Media,Desktop,Chennai,Home,1,23,1,0,0
+S0920,2026-08-11,Email,Mobile,Bangalore,Product,2,354,0,0,0
+S0921,2026-08-11,Email,Mobile,Mumbai,Pricing,9,571,0,0,0
+S0922,2026-08-11,Direct,Desktop,Bangalore,Contact,12,412,0,0,0
+S0923,2026-08-11,Organic Search,Mobile,Chennai,Home,12,479,0,0,0
+S0924,2026-08-11,Paid Ads,Mobile,Kolkata,Pricing,8,200,0,0,0
+S0925,2026-08-11,Social Media,Desktop,Bangalore,Product,12,311,0,0,0
+S0926,2026-08-11,Direct,Desktop,Ahmedabad,Contact,9,334,0,0,0
+S0927,2026-08-11,Organic Search,Mobile,Kolkata,Blog,1,12,1,0,0
+S0928,2026-08-11,Referral,Desktop,Kolkata,Home,5,211,0,0,0
+S0929,2026-08-11,Paid Ads,Desktop,Bangalore,Product,11,240,0,0,0
+S0930,2026-08-11,Direct,Desktop,Delhi,Home,8,367,0,0,0
+S0931,2026-08-11,Social Media,Tablet,Kolkata,Contact,10,474,0,0,0
+S0932,2026-08-11,Direct,Mobile,Bangalore,Home,12,327,0,0,0
+S0933,2026-08-11,Social Media,Mobile,Mumbai,Product,2,461,0,0,0
+S0934,2026-08-12,Email,Desktop,Kolkata,Pricing,8,299,0,1,"4,999"
+S0935,2026-08-12,Email,Mobile,Kolkata,Product,1,7,1,0,0
+S0936,2026-08-12,Paid Ads,Mobile,Bangalore,Home,1,34,1,0,0
+S0937,2026-08-12,Direct,Mobile,Delhi,Home,1,6,1,0,0
+S0938,2026-08-12,Organic Search,Desktop,Pune,Product,11,445,0,0,0
+S0939,2026-08-12,Direct,Desktop,Delhi,Home,5,102,0,0,0
+S0940,2026-08-12,Direct,Desktop,Delhi,Pricing,1,18,1,0,0
+S0941,2026-08-12,Organic Search,Mobile,Chennai,Product,12,540,0,0,0
+S0942,2026-08-12,Organic Search,Desktop,Kolkata,Product,12,108,0,0,0
+S0943,2026-08-12,Paid Ads,Mobile,Delhi,Pricing,12,428,0,0,0
+S0944,2026-08-12,Organic Search,Mobile,Delhi,Product,3,514,0,0,0
+S0945,2026-08-12,Organic Search,Mobile,Mumbai,Blog,10,335,0,0,0
+S0946,2026-08-12,Social Media,Mobile,Mumbai,Product,1,19,1,0,0
+S0947,2026-08-12,Social Media,Mobile,Bangalore,Home,1,14,1,0,0
+S0948,2026-08-12,Email,Mobile,Kolkata,Pricing,9,315,0,0,0
+S0949,2026-08-13,Organic Search,Desktop,Hyderabad,Blog,1,30,1,0,0
+S0950,2026-08-13,Email,Mobile,Chennai,Pricing,9,122,0,1,799
+S0951,2026-08-13,Paid Ads,Mobile,Delhi,Pricing,11,451,0,0,0
+S0952,2026-08-13,Paid Ads,Mobile,Hyderabad,Product,1,28,1,0,0
+S0953,2026-08-13,Email,Desktop,Chennai,Product,5,222,0,0,0
+S0954,2026-08-13,Organic Search,Mobile,Delhi,Pricing,1,21,1,0,0
+S0955,2026-08-13,Organic Search,Mobile,Ahmedabad,Blog,1,22,1,0,0
+S0956,2026-08-13,Social Media,Desktop,Kolkata,Product,1,23,1,0,0
+S0957,2026-08-13,Organic Search,Mobile,Delhi,Product,1,18,1,0,0
+S0958,2026-08-13,Organic Search,Mobile,Mumbai,Pricing,1,14,1,0,0
+S0959,2026-08-13,Organic Search,Desktop,Kolkata,Blog,1,16,1,0,0
+S0960,2026-08-13,Email,Desktop,Chennai,Product,1,25,1,0,0
+S0961,2026-08-13,Paid Ads,Mobile,Delhi,Home,1,28,1,0,0
+S0962,2026-08-13,Organic Search,Tablet,Chennai,Product,1,30,1,0,0
+S0963,2026-08-14,Paid Ads,Mobile,Kolkata,Home,2,515,0,0,0
+S0964,2026-08-14,Organic Search,Mobile,Kolkata,Blog,1,7,1,0,0
+S0965,2026-08-14,Paid Ads,Desktop,Mumbai,Product,6,479,0,0,0
+S0966,2026-08-14,Organic Search,Desktop,Bangalore,Product,12,196,0,0,0
+S0967,2026-08-14,Direct,Desktop,Bangalore,Product,9,152,0,0,0
+S0968,2026-08-14,Paid Ads,Mobile,Chennai,Pricing,1,32,1,0,0
+S0969,2026-08-14,Direct,Mobile,Delhi,Blog,3,535,0,0,0
+S0970,2026-08-14,Social Media,Mobile,Mumbai,Product,6,437,0,0,0
+S0971,2026-08-14,Social Media,Mobile,Pune,Product,1,19,1,0,0
+S0972,2026-08-14,Paid Ads,Mobile,Delhi,Pricing,1,33,1,0,0
+S0973,2026-08-14,Paid Ads,Mobile,Kolkata,Home,1,26,1,0,0
+S0974,2026-08-14,Organic Search,Desktop,Bangalore,Pricing,12,354,0,0,0
+S0975,2026-08-14,Paid Ads,Desktop,Chennai,Home,6,322,0,0,0
+S0976,2026-08-14,Paid Ads,Mobile,Ahmedabad,Product,12,589,0,0,0
+S0977,2026-08-14,Paid Ads,Desktop,Hyderabad,Pricing,1,5,1,0,0
+S0978,2026-08-14,Organic Search,Desktop,Bangalore,Home,7,377,0,1,"2,999"
+S0979,2026-08-14,Social Media,Mobile,Pune,Contact,9,467,0,0,0
+S0980,2026-08-14,Email,Mobile,Mumbai,Product,10,365,0,0,0
+S0981,2026-08-14,Social Media,Mobile,Delhi,Contact,1,28,1,0,0
+S0982,2026-08-14,Social Media,Desktop,Ahmedabad,Product,1,33,1,0,0
+S0983,2026-08-14,Social Media,Desktop,Mumbai,Product,9,213,0,1,499
+S0984,2026-08-15,Organic Search,Desktop,Chennai,Blog,1,18,1,0,0
+S0985,2026-08-15,Organic Search,Mobile,Delhi,Blog,7,291,0,0,0
+S0986,2026-08-15,Email,Mobile,Mumbai,Pricing,6,85,0,0,0
+S0987,2026-08-15,Social Media,Desktop,Bangalore,Product,10,377,0,0,0
+S0988,2026-08-15,Direct,Mobile,Mumbai,Home,1,22,1,0,0
+S0989,2026-08-15,Email,Desktop,Hyderabad,Product,10,379,0,0,0
+S0990,2026-08-15,Organic Search,Mobile,Mumbai,Product,10,318,0,0,0
+S0991,2026-08-15,Organic Search,Desktop,Bangalore,Contact,3,229,0,0,0
+S0992,2026-08-15,Email,Mobile,Chennai,Product,1,13,1,0,0
+S0993,2026-08-15,Organic Search,Tablet,Mumbai,Blog,5,499,0,0,0
+S0994,2026-08-15,Social Media,Desktop,Ahmedabad,Home,8,505,0,0,0
+S0995,2026-08-15,Organic Search,Desktop,Bangalore,Product,9,377,0,0,0
+S0996,2026-08-15,Paid Ads,Mobile,Kolkata,Blog,1,12,1,0,0
+S0997,2026-08-15,Organic Search,Desktop,Hyderabad,Blog,4,68,0,0,0
+S0998,2026-08-15,Organic Search,Desktop,Mumbai,Blog,1,19,1,0,0
+S0999,2026-08-15,Email,Desktop,Hyderabad,Product,5,456,0,0,0
+S1000,2026-08-16,Organic Search,Mobile,Delhi,Pricing,9,201,0,0,0
+S1001,2026-08-16,Direct,Mobile,Mumbai,Pricing,6,213,0,0,0
+S1002,2026-08-16,Direct,Desktop,Hyderabad,Pricing,1,6,1,0,0
+S1003,2026-08-16,Organic Search,Desktop,Kolkata,Home,4,228,0,0,0
+S1004,2026-08-16,Social Media,Desktop,Chennai,Blog,7,450,0,0,0
+S1005,2026-08-16,Organic Search,Desktop,Pune,Blog,7,481,0,0,0
+S1006,2026-08-16,Email,Desktop,Bangalore,Product,1,24,1,0,0
+S1007,2026-08-16,Organic Search,Mobile,Mumbai,Blog,3,574,0,0,0
+S1008,2026-08-16,Organic Search,Desktop,Hyderabad,Blog,2,344,0,0,0
+S1009,2026-08-16,Referral,Mobile,Kolkata,Product,1,27,1,0,0
+S1010,2026-08-16,Email,Mobile,Ahmedabad,Product,4,478,0,0,0
+S1011,2026-08-16,Organic Search,Mobile,Kolkata,Home,1,25,1,0,0
+S1012,2026-08-16,Paid Ads,Tablet,Bangalore,Home,1,22,1,0,0
+S1013,2026-08-16,Organic Search,Mobile,Kolkata,Contact,7,134,0,1,999
+S1014,2026-08-17,Social Media,Desktop,Mumbai,Pricing,1,10,1,0,0
+S1015,2026-08-17,Paid Ads,Mobile,Chennai,Product,1,18,1,0,0
+S1016,2026-08-17,Paid Ads,Mobile,Bangalore,Product,1,28,1,0,0
+S1017,2026-08-17,Paid Ads,Desktop,Bangalore,Pricing,3,142,0,0,0
+S1018,2026-08-17,Organic Search,Desktop,Hyderabad,Blog,10,207,0,1,"2,999"
+S1019,2026-08-17,Organic Search,Desktop,Delhi,Blog,1,21,1,0,0
+S1020,2026-08-17,Direct,Desktop,Chennai,Product,2,213,0,0,0
+S1021,2026-08-17,Organic Search,Mobile,Chennai,Blog,2,383,0,1,"4,999"
+S1022,2026-08-17,Social Media,Desktop,Hyderabad,Pricing,6,286,0,0,0
+S1023,2026-08-17,Direct,Mobile,Hyderabad,Home,12,46,0,0,0
+S1024,2026-08-17,Paid Ads,Mobile,Delhi,Home,1,34,1,0,0
+S1025,2026-08-17,Organic Search,Tablet,Bangalore,Pricing,1,5,1,0,0
+S1026,2026-08-17,Organic Search,Desktop,Bangalore,Home,1,10,1,0,0
+S1027,2026-08-17,Email,Mobile,Bangalore,Home,8,414,0,0,0
+S1028,2026-08-17,Social Media,Mobile,Mumbai,Product,1,34,1,0,0
+S1029,2026-08-17,Paid Ads,Mobile,Mumbai,Product,12,220,0,0,0
+S1030,2026-08-17,Paid Ads,Mobile,Hyderabad,Pricing,1,33,1,0,0
+S1031,2026-08-17,Paid Ads,Desktop,Mumbai,Product,1,10,1,0,0
+S1032,2026-08-17,Direct,Mobile,Mumbai,Home,7,170,0,1,"2,999"
+S1033,2026-08-17,Social Media,Desktop,Chennai,Product,7,592,0,0,0
+S1034,2026-08-17,Social Media,Mobile,Mumbai,Contact,1,23,1,0,0
+S1035,2026-08-17,Referral,Mobile,Delhi,Blog,9,365,0,0,0
+S1036,2026-08-17,Social Media,Desktop,Delhi,Blog,6,383,0,0,0
+S1037,2026-08-17,Paid Ads,Desktop,Bangalore,Home,1,20,1,0,0
+S1038,2026-08-18,Direct,Mobile,Delhi,Pricing,1,29,1,0,0
+S1039,2026-08-18,Direct,Mobile,Delhi,Pricing,7,238,0,0,0
+S1040,2026-08-18,Paid Ads,Mobile,Hyderabad,Product,5,516,0,0,0
+S1041,2026-08-18,Organic Search,Mobile,Delhi,Blog,7,495,0,0,0
+S1042,2026-08-18,Email,Desktop,Mumbai,Pricing,12,365,0,0,0
+S1043,2026-08-18,Organic Search,Mobile,Mumbai,Blog,1,9,1,0,0
+S1044,2026-08-18,Paid Ads,Mobile,Chennai,Product,8,594,0,0,0
+S1045,2026-08-18,Organic Search,Mobile,Chennai,Product,4,443,0,0,0
+S1046,2026-08-18,Paid Ads,Desktop,Kolkata,Product,2,78,0,0,0
+S1047,2026-08-18,Organic Search,Mobile,Mumbai,Blog,7,336,0,0,0
+S1048,2026-08-18,Email,Mobile,Delhi,Product,11,274,0,1,499
+S1049,2026-08-18,Direct,Mobile,Bangalore,Home,12,136,0,0,0
+S1050,2026-08-18,Organic Search,Mobile,Ahmedabad,Blog,8,425,0,1,499
+S1051,2026-08-18,Paid Ads,Mobile,Bangalore,Home,1,16,1,0,0
+S1052,2026-08-18,Direct,Mobile,Kolkata,Product,9,408,0,0,0
+S1053,2026-08-18,Referral,Mobile,Delhi,Product,1,15,1,0,0
+S1054,2026-08-18,Organic Search,Desktop,Pune,Home,10,218,0,0,0
+S1055,2026-08-18,Paid Ads,Mobile,Mumbai,Contact,6,160,0,0,0
+S1056,2026-08-19,Email,Mobile,Kolkata,Product,8,596,0,0,0
+S1057,2026-08-19,Organic Search,Mobile,Chennai,Pricing,2,202,0,0,0
+S1058,2026-08-19,Organic Search,Mobile,Kolkata,Product,8,299,0,0,0
+S1059,2026-08-19,Social Media,Desktop,Hyderabad,Product,4,125,0,0,0
+S1060,2026-08-19,Paid Ads,Mobile,Kolkata,Home,1,9,1,0,0
+S1061,2026-08-19,Organic Search,Mobile,Hyderabad,Blog,1,30,1,0,0
+S1062,2026-08-19,Email,Tablet,Bangalore,Contact,4,225,0,0,0
+S1063,2026-08-19,Direct,Desktop,Mumbai,Product,1,27,1,0,0
+S1064,2026-08-19,Social Media,Desktop,Mumbai,Home,1,28,1,0,0
+S1065,2026-08-19,Direct,Desktop,Bangalore,Contact,1,16,1,0,0
+S1066,2026-08-19,Referral,Desktop,Delhi,Blog,6,107,0,0,0
+S1067,2026-08-19,Email,Mobile,Hyderabad,Pricing,1,9,1,0,0
+S1068,2026-08-19,Organic Search,Desktop,Kolkata,Home,1,3,1,0,0
+S1069,2026-08-19,Organic Search,Mobile,Ahmedabad,Product,1,34,1,0,0
+S1070,2026-08-19,Direct,Mobile,Mumbai,Home,1,4,1,0,0
+S1071,2026-08-19,Organic Search,Tablet,Kolkata,Blog,8,438,0,0,0
+S1072,2026-08-19,Organic Search,Desktop,Kolkata,Blog,1,17,1,0,0
+S1073,2026-08-19,Social Media,Tablet,Ahmedabad,Blog,9,300,0,0,0
+S1074,2026-08-19,Email,Desktop,Bangalore,Blog,7,314,0,0,0
+S1075,2026-08-19,Direct,Desktop,Delhi,Product,7,378,0,0,0
+S1076,2026-08-19,Organic Search,Mobile,Bangalore,Blog,1,17,1,0,0
+S1077,2026-08-19,Organic Search,Mobile,Hyderabad,Pricing,8,68,0,0,0
+S1078,2026-08-19,Social Media,Desktop,Pune,Blog,7,226,0,0,0
+S1079,2026-08-19,Direct,Desktop,Mumbai,Product,9,270,0,0,0
+S1080,2026-08-19,Organic Search,Desktop,Bangalore,Blog,1,6,1,0,0
+S1081,2026-08-19,Organic Search,Desktop,Hyderabad,Blog,4,113,0,0,0
+S1082,2026-08-20,Organic Search,Desktop,Mumbai,Blog,7,591,0,0,0
+S1083,2026-08-20,Organic Search,Mobile,Ahmedabad,Blog,1,8,1,0,0
+S1084,2026-08-20,Organic Search,Mobile,Mumbai,Blog,6,211,0,0,0
+S1085,2026-08-20,Organic Search,Mobile,Pune,Blog,12,558,0,0,0
+S1086,2026-08-20,Email,Mobile,Mumbai,Product,10,347,0,0,0
+S1087,2026-08-20,Organic Search,Desktop,Bangalore,Home,3,151,0,0,0
+S1088,2026-08-20,Paid Ads,Mobile,Ahmedabad,Product,1,5,1,0,0
+S1089,2026-08-20,Organic Search,Mobile,Ahmedabad,Product,1,34,1,0,0
+S1090,2026-08-20,Organic Search,Mobile,Pune,Contact,8,478,0,0,0
+S1091,2026-08-20,Direct,Mobile,Bangalore,Product,11,555,0,0,0
+S1092,2026-08-20,Organic Search,Mobile,Mumbai,Blog,1,3,1,0,0
+S1093,2026-08-20,Direct,Mobile,Bangalore,Home,7,483,0,0,0
+S1094,2026-08-20,Organic Search,Mobile,Bangalore,Product,1,20,1,0,0
+S1095,2026-08-20,Organic Search,Mobile,Hyderabad,Blog,1,8,1,0,0
+S1096,2026-08-20,Referral,Mobile,Kolkata,Product,2,586,0,1,"1,999"
+S1097,2026-08-20,Paid Ads,Mobile,Pune,Product,10,244,0,0,0
+S1098,2026-08-20,Organic Search,Desktop,Hyderabad,Blog,2,400,0,0,0
+S1099,2026-08-20,Referral,Desktop,Hyderabad,Pricing,3,248,0,1,"2,999"
+S1100,2026-08-20,Paid Ads,Mobile,Mumbai,Product,1,21,1,0,0
+S1101,2026-08-20,Email,Mobile,Hyderabad,Contact,5,175,0,0,0
+S1102,2026-08-20,Organic Search,Desktop,Delhi,Blog,1,31,1,0,0
+S1103,2026-08-21,Direct,Desktop,Delhi,Pricing,3,365,0,0,0
+S1104,2026-08-21,Social Media,Mobile,Delhi,Product,4,188,0,0,0
+S1105,2026-08-21,Organic Search,Desktop,Ahmedabad,Product,4,487,0,0,0
+S1106,2026-08-21,Paid Ads,Mobile,Mumbai,Product,3,515,0,0,0
+S1107,2026-08-21,Organic Search,Mobile,Bangalore,Blog,10,338,0,0,0
+S1108,2026-08-21,Direct,Mobile,Hyderabad,Home,1,14,1,0,0
+S1109,2026-08-21,Email,Tablet,Delhi,Pricing,10,330,0,1,"1,499"
+S1110,2026-08-21,Referral,Mobile,Kolkata,Product,4,489,0,1,"4,999"
+S1111,2026-08-21,Social Media,Mobile,Mumbai,Product,10,351,0,0,0
+S1112,2026-08-21,Organic Search,Mobile,Mumbai,Home,5,583,0,0,0
+S1113,2026-08-21,Direct,Mobile,Pune,Home,12,487,0,0,0
+S1114,2026-08-21,Direct,Mobile,Chennai,Home,1,6,1,0,0
+S1115,2026-08-21,Organic Search,Desktop,Mumbai,Blog,3,547,0,1,499
+S1116,2026-08-21,Organic Search,Desktop,Pune,Product,9,425,0,0,0
+S1117,2026-08-21,Organic Search,Mobile,Bangalore,Pricing,1,24,1,0,0
+S1118,2026-08-21,Direct,Desktop,Kolkata,Product,1,15,1,0,0
+S1119,2026-08-21,Direct,Mobile,Bangalore,Product,3,286,0,0,0
+S1120,2026-08-21,Referral,Mobile,Mumbai,Blog,11,475,0,0,0
+S1121,2026-08-22,Organic Search,Desktop,Mumbai,Product,9,107,0,1,"1,499"
+S1122,2026-08-22,Referral,Mobile,Hyderabad,Blog,11,277,0,0,0
+S1123,2026-08-22,Direct,Mobile,Mumbai,Home,1,5,1,0,0
+S1124,2026-08-22,Paid Ads,Mobile,Delhi,Pricing,2,578,0,0,0
+S1125,2026-08-22,Organic Search,Mobile,Chennai,Blog,7,477,0,0,0
+S1126,2026-08-22,Paid Ads,Mobile,Ahmedabad,Product,1,26,1,0,0
+S1127,2026-08-22,Organic Search,Desktop,Chennai,Product,12,557,0,0,0
+S1128,2026-08-22,Social Media,Mobile,Delhi,Home,1,3,1,0,0
+S1129,2026-08-22,Direct,Mobile,Kolkata,Home,3,177,0,0,0
+S1130,2026-08-22,Referral,Desktop,Mumbai,Contact,11,156,0,0,0
+S1131,2026-08-22,Referral,Tablet,Hyderabad,Home,10,148,0,0,0
+S1132,2026-08-22,Direct,Mobile,Delhi,Product,6,259,0,0,0
+S1133,2026-08-22,Direct,Mobile,Mumbai,Product,1,15,1,0,0
+S1134,2026-08-22,Organic Search,Desktop,Ahmedabad,Blog,7,300,0,0,0
+S1135,2026-08-22,Paid Ads,Desktop,Ahmedabad,Product,1,33,1,0,0
+S1136,2026-08-22,Referral,Mobile,Mumbai,Blog,1,32,1,0,0
+S1137,2026-08-22,Social Media,Mobile,Kolkata,Home,1,13,1,0,0
+S1138,2026-08-23,Direct,Mobile,Mumbai,Home,8,223,0,0,0
+S1139,2026-08-23,Organic Search,Mobile,Kolkata,Pricing,1,7,1,0,0
+S1140,2026-08-23,Email,Desktop,Pune,Pricing,5,471,0,0,0
+S1141,2026-08-23,Social Media,Desktop,Delhi,Blog,5,325,0,0,0
+S1142,2026-08-23,Paid Ads,Desktop,Bangalore,Blog,11,459,0,0,0
+S1143,2026-08-23,Organic Search,Mobile,Bangalore,Blog,9,174,0,0,0
+S1144,2026-08-23,Social Media,Mobile,Chennai,Product,1,18,1,0,0
+S1145,2026-08-23,Organic Search,Desktop,Delhi,Blog,1,33,1,0,0
+S1146,2026-08-23,Social Media,Tablet,Mumbai,Pricing,1,12,1,0,0
+S1147,2026-08-23,Paid Ads,Desktop,Ahmedabad,Pricing,4,562,0,0,0
+S1148,2026-08-23,Direct,Mobile,Delhi,Blog,6,508,0,0,0
+S1149,2026-08-23,Paid Ads,Mobile,Chennai,Pricing,2,469,0,1,499
+S1150,2026-08-23,Paid Ads,Desktop,Pune,Product,1,20,1,0,0
+S1151,2026-08-23,Paid Ads,Desktop,Mumbai,Product,8,329,0,0,0
+S1152,2026-08-23,Paid Ads,Mobile,Delhi,Product,1,4,1,0,0
+S1153,2026-08-23,Organic Search,Desktop,Bangalore,Product,1,11,1,0,0
+S1154,2026-08-24,Direct,Mobile,Mumbai,Blog,10,250,0,0,0
+S1155,2026-08-24,Email,Mobile,Kolkata,Product,2,145,0,1,"2,999"
+S1156,2026-08-24,Social Media,Mobile,Pune,Blog,2,339,0,0,0
+S1157,2026-08-24,Referral,Desktop,Pune,Blog,1,11,1,0,0
+S1158,2026-08-24,Organic Search,Mobile,Bangalore,Pricing,1,19,1,0,0
+S1159,2026-08-24,Email,Desktop,Hyderabad,Pricing,4,229,0,0,0
+S1160,2026-08-24,Direct,Desktop,Kolkata,Product,5,373,0,0,0
+S1161,2026-08-24,Direct,Mobile,Chennai,Product,1,6,1,0,0
+S1162,2026-08-24,Email,Desktop,Pune,Pricing,9,566,0,0,0
+S1163,2026-08-24,Social Media,Mobile,Delhi,Contact,12,376,0,0,0
+S1164,2026-08-24,Organic Search,Tablet,Hyderabad,Blog,9,145,0,0,0
+S1165,2026-08-24,Organic Search,Desktop,Delhi,Home,11,600,0,0,0
+S1166,2026-08-24,Referral,Mobile,Delhi,Home,8,187,0,0,0
+S1167,2026-08-24,Direct,Desktop,Ahmedabad,Home,6,324,0,0,0
+S1168,2026-08-24,Social Media,Desktop,Ahmedabad,Product,1,16,1,0,0
+S1169,2026-08-24,Organic Search,Desktop,Pune,Product,11,126,0,1,999
+S1170,2026-08-24,Social Media,Desktop,Mumbai,Product,6,213,0,0,0
+S1171,2026-08-24,Direct,Desktop,Hyderabad,Product,5,534,0,1,"4,999"
+S1172,2026-08-24,Email,Desktop,Mumbai,Home,12,457,0,1,"1,999"
+S1173,2026-08-24,Direct,Mobile,Ahmedabad,Product,1,14,1,0,0
+S1174,2026-08-24,Social Media,Desktop,Kolkata,Home,3,125,0,0,0
+S1175,2026-08-24,Organic Search,Desktop,Hyderabad,Pricing,3,493,0,1,"1,999"
+S1176,2026-08-24,Paid Ads,Mobile,Ahmedabad,Product,11,576,0,0,0
+S1177,2026-08-24,Organic Search,Mobile,Pune,Home,12,582,0,0,0
+S1178,2026-08-24,Paid Ads,Desktop,Chennai,Product,1,15,1,0,0
+S1179,2026-08-24,Referral,Mobile,Bangalore,Blog,6,480,0,0,0
+S1180,2026-08-24,Organic Search,Mobile,Mumbai,Blog,12,362,0,0,0
+S1181,2026-08-24,Organic Search,Mobile,Hyderabad,Product,3,200,0,0,0
+S1182,2026-08-24,Organic Search,Mobile,Kolkata,Product,1,20,1,0,0
+S1183,2026-08-24,Organic Search,Desktop,Bangalore,Blog,3,509,0,0,0
+S1184,2026-08-25,Organic Search,Mobile,Kolkata,Product,11,374,0,0,0
+S1185,2026-08-25,Social Media,Desktop,Mumbai,Home,1,27,1,0,0
+S1186,2026-08-25,Direct,Desktop,Kolkata,Home,10,569,0,0,0
+S1187,2026-08-25,Direct,Tablet,Mumbai,Home,1,6,1,0,0
+S1188,2026-08-25,Direct,Mobile,Ahmedabad,Pricing,9,369,0,0,0
+S1189,2026-08-25,Organic Search,Mobile,Chennai,Product,1,10,1,0,0
+S1190,2026-08-25,Paid Ads,Desktop,Bangalore,Home,1,28,1,0,0
+S1191,2026-08-25,Organic Search,Mobile,Hyderabad,Blog,4,131,0,0,0
+S1192,2026-08-25,Social Media,Desktop,Pune,Home,1,27,1,0,0
+S1193,2026-08-25,Direct,Mobile,Hyderabad,Pricing,3,253,0,0,0
+S1194,2026-08-25,Organic Search,Desktop,Pune,Blog,7,548,0,0,0
+S1195,2026-08-25,Organic Search,Mobile,Mumbai,Blog,1,34,1,0,0
+S1196,2026-08-25,Organic Search,Desktop,Bangalore,Pricing,1,21,1,0,0
+S1197,2026-08-25,Social Media,Tablet,Kolkata,Blog,8,325,0,0,0
+S1198,2026-08-25,Email,Mobile,Delhi,Product,1,26,1,0,0
+S1199,2026-08-25,Direct,Desktop,Bangalore,Product,1,6,1,0,0
+S1200,2026-08-25,Referral,Mobile,Delhi,Product,12,322,0,0,0
+S1201,2026-08-25,Social Media,Mobile,Bangalore,Contact,1,21,1,0,0
+S1202,2026-08-25,Organic Search,Desktop,Hyderabad,Product,6,514,0,0,0
+S1203,2026-08-25,Referral,Mobile,Bangalore,Product,1,19,1,0,0
+S1204,2026-08-25,Direct,Mobile,Mumbai,Home,1,23,1,0,0
+S1205,2026-08-25,Organic Search,Desktop,Delhi,Home,8,136,0,0,0
+S1206,2026-08-26,Social Media,Tablet,Bangalore,Contact,10,481,0,0,0
+S1207,2026-08-26,Organic Search,Desktop,Kolkata,Home,9,497,0,0,0
+S1208,2026-08-26,Organic Search,Mobile,Hyderabad,Product,1,5,1,0,0
+S1209,2026-08-26,Social Media,Mobile,Hyderabad,Product,1,8,1,0,0
+S1210,2026-08-26,Paid Ads,Mobile,Delhi,Pricing,3,287,0,0,0
+S1211,2026-08-26,Organic Search,Desktop,Mumbai,Blog,12,421,0,0,0
+S1212,2026-08-26,Social Media,Tablet,Chennai,Product,1,21,1,0,0
+S1213,2026-08-26,Social Media,Desktop,Mumbai,Product,9,90,0,0,0
+S1214,2026-08-26,Paid Ads,Desktop,Kolkata,Blog,9,377,0,0,0
+S1215,2026-08-26,Direct,Mobile,Bangalore,Product,1,3,1,0,0
+S1216,2026-08-26,Organic Search,Mobile,Bangalore,Product,1,29,1,0,0
+S1217,2026-08-26,Paid Ads,Mobile,Hyderabad,Blog,1,3,1,0,0
+S1218,2026-08-26,Social Media,Mobile,Ahmedabad,Pricing,1,25,1,0,0
+S1219,2026-08-26,Direct,Mobile,Bangalore,Home,8,444,0,0,0
+S1220,2026-08-26,Organic Search,Mobile,Bangalore,Blog,1,23,1,0,0
+S1221,2026-08-26,Direct,Desktop,Delhi,Home,10,411,0,0,0
+S1222,2026-08-26,Paid Ads,Mobile,Kolkata,Home,1,5,1,0,0
+S1223,2026-08-26,Organic Search,Mobile,Ahmedabad,Blog,8,415,0,1,"1,999"
+S1224,2026-08-26,Social Media,Mobile,Bangalore,Product,1,20,1,0,0
+S1225,2026-08-26,Direct,Mobile,Hyderabad,Home,1,15,1,0,0
+S1226,2026-08-26,Email,Mobile,Hyderabad,Home,1,15,1,0,0
+S1227,2026-08-26,Organic Search,Mobile,Ahmedabad,Product,1,34,1,0,0
+S1228,2026-08-26,Direct,Desktop,Delhi,Home,1,34,1,0,0
+S1229,2026-08-26,Direct,Mobile,Mumbai,Home,1,31,1,0,0
+S1230,2026-08-26,Organic Search,Mobile,Pune,Blog,5,512,0,0,0
+S1231,2026-08-26,Organic Search,Mobile,Mumbai,Blog,1,14,1,0,0
+S1232,2026-08-26,Organic Search,Desktop,Chennai,Home,1,27,1,0,0
+S1233,2026-08-26,Social Media,Mobile,Bangalore,Product,1,31,1,0,0
+S1234,2026-08-26,Email,Desktop,Ahmedabad,Product,4,503,0,0,0
+S1235,2026-08-26,Organic Search,Mobile,Bangalore,Home,8,571,0,1,"4,999"
+S1236,2026-08-27,Direct,Desktop,Delhi,Blog,1,17,1,0,0
+S1237,2026-08-27,Direct,Desktop,Mumbai,Home,1,14,1,0,0
+S1238,2026-08-27,Organic Search,Desktop,Kolkata,Home,8,168,0,0,0
+S1239,2026-08-27,Organic Search,Mobile,Bangalore,Blog,8,338,0,0,0
+S1240,2026-08-27,Direct,Desktop,Delhi,Product,4,68,0,1,799
+S1241,2026-08-27,Social Media,Mobile,Mumbai,Product,1,16,1,0,0
+S1242,2026-08-27,Paid Ads,Desktop,Kolkata,Product,1,32,1,0,0
+S1243,2026-08-27,Organic Search,Mobile,Mumbai,Blog,2,82,0,0,0
+S1244,2026-08-27,Paid Ads,Mobile,Kolkata,Product,3,569,0,0,0
+S1245,2026-08-27,Referral,Mobile,Hyderabad,Blog,6,394,0,0,0
+S1246,2026-08-27,Organic Search,Mobile,Bangalore,Product,8,421,0,0,0
+S1247,2026-08-27,Organic Search,Mobile,Mumbai,Product,5,323,0,0,0
+S1248,2026-08-27,Organic Search,Mobile,Pune,Pricing,10,252,0,0,0
+S1249,2026-08-27,Organic Search,Mobile,Mumbai,Blog,7,308,0,0,0
+S1250,2026-08-27,Social Media,Tablet,Pune,Pricing,10,224,0,0,0
+S1251,2026-08-27,Social Media,Desktop,Bangalore,Product,5,173,0,0,0
+S1252,2026-08-27,Referral,Tablet,Chennai,Blog,1,4,1,0,0
+S1253,2026-08-27,Direct,Desktop,Delhi,Product,1,14,1,0,0
+S1254,2026-08-27,Referral,Desktop,Delhi,Product,3,371,0,0,0
+S1255,2026-08-27,Organic Search,Desktop,Hyderabad,Home,8,411,0,0,0
+S1256,2026-08-27,Social Media,Mobile,Mumbai,Product,1,5,1,0,0
+S1257,2026-08-27,Paid Ads,Desktop,Pune,Contact,1,16,1,0,0
+S1258,2026-08-27,Paid Ads,Desktop,Bangalore,Home,1,24,1,0,0
+S1259,2026-08-27,Social Media,Tablet,Delhi,Home,1,21,1,0,0
+S1260,2026-08-28,Paid Ads,Mobile,Kolkata,Product,5,406,0,1,999
+S1261,2026-08-28,Direct,Mobile,Chennai,Pricing,7,109,0,0,0
+S1262,2026-08-28,Direct,Mobile,Chennai,Pricing,1,33,1,0,0
+S1263,2026-08-28,Direct,Desktop,Mumbai,Contact,11,49,0,0,0
+S1264,2026-08-28,Organic Search,Tablet,Bangalore,Blog,12,490,0,0,0
+S1265,2026-08-28,Organic Search,Mobile,Delhi,Blog,1,6,1,0,0
+S1266,2026-08-28,Paid Ads,Desktop,Ahmedabad,Home,1,28,1,0,0
+S1267,2026-08-28,Paid Ads,Mobile,Delhi,Home,4,49,0,0,0
+S1268,2026-08-28,Organic Search,Mobile,Mumbai,Blog,1,30,1,0,0
+S1269,2026-08-28,Organic Search,Mobile,Delhi,Home,8,187,0,1,499
+S1270,2026-08-28,Social Media,Desktop,Hyderabad,Product,1,25,1,0,0
+S1271,2026-08-28,Social Media,Desktop,Bangalore,Home,3,154,0,0,0
+S1272,2026-08-28,Social Media,Desktop,Chennai,Home,7,340,0,0,0
+S1273,2026-08-28,Organic Search,Desktop,Ahmedabad,Blog,1,13,1,0,0
+S1274,2026-08-28,Organic Search,Desktop,Hyderabad,Blog,12,381,0,0,0
+S1275,2026-08-28,Direct,Tablet,Delhi,Pricing,2,252,0,0,0
+S1276,2026-08-28,Direct,Desktop,Mumbai,Product,5,310,0,0,0
+S1277,2026-08-28,Organic Search,Mobile,Pune,Blog,12,395,0,0,0
+S1278,2026-08-28,Referral,Mobile,Mumbai,Home,1,31,1,0,0
+S1279,2026-08-29,Email,Mobile,Kolkata,Product,10,56,0,0,0
+S1280,2026-08-29,Direct,Desktop,Delhi,Home,11,591,0,1,"1,499"
+S1281,2026-08-29,Social Media,Desktop,Kolkata,Product,1,19,1,0,0
+S1282,2026-08-29,Paid Ads,Desktop,Kolkata,Pricing,1,15,1,0,0
+S1283,2026-08-29,Organic Search,Desktop,Chennai,Home,3,524,0,1,999
+S1284,2026-08-29,Organic Search,Mobile,Chennai,Home,1,22,1,0,0
+S1285,2026-08-29,Email,Mobile,Ahmedabad,Pricing,1,30,1,0,0
+S1286,2026-08-29,Organic Search,Mobile,Hyderabad,Blog,1,34,1,0,0
+S1287,2026-08-29,Paid Ads,Desktop,Bangalore,Blog,1,13,1,0,0
+S1288,2026-08-29,Direct,Desktop,Bangalore,Product,5,537,0,0,0
+S1289,2026-08-29,Referral,Desktop,Bangalore,Product,1,26,1,0,0
+S1290,2026-08-29,Organic Search,Mobile,Hyderabad,Blog,9,491,0,0,0
+S1291,2026-08-29,Organic Search,Desktop,Pune,Contact,1,28,1,0,0
+S1292,2026-08-29,Organic Search,Mobile,Mumbai,Blog,5,544,0,0,0
+S1293,2026-08-29,Social Media,Mobile,Mumbai,Home,1,3,1,0,0
+S1294,2026-08-29,Organic Search,Mobile,Chennai,Home,1,8,1,0,0
+S1295,2026-08-29,Direct,Mobile,Pune,Home,12,499,0,0,0
+S1296,2026-08-29,Direct,Desktop,Ahmedabad,Home,4,439,0,0,0
+S1297,2026-08-29,Direct,Mobile,Delhi,Product,6,113,0,0,0
+S1298,2026-08-29,Referral,Mobile,Mumbai,Product,6,196,0,0,0
+S1299,2026-08-30,Organic Search,Mobile,Ahmedabad,Blog,1,33,1,0,0
+S1300,2026-08-30,Social Media,Mobile,Kolkata,Blog,1,31,1,0,0
+S1301,2026-08-30,Referral,Mobile,Mumbai,Blog,1,12,1,0,0
+S1302,2026-08-30,Referral,Desktop,Delhi,Pricing,12,268,0,0,0
+S1303,2026-08-30,Email,Desktop,Delhi,Product,5,532,0,0,0
+S1304,2026-08-30,Organic Search,Desktop,Delhi,Product,7,65,0,0,0
+S1305,2026-08-30,Paid Ads,Desktop,Bangalore,Contact,4,419,0,0,0
+S1306,2026-08-30,Social Media,Mobile,Bangalore,Home,7,419,0,0,0
+S1307,2026-08-30,Organic Search,Mobile,Delhi,Blog,10,323,0,0,0
+S1308,2026-08-30,Paid Ads,Mobile,Chennai,Home,1,19,1,0,0
+S1309,2026-08-30,Email,Desktop,Chennai,Home,1,20,1,0,0
+S1310,2026-08-30,Paid Ads,Mobile,Kolkata,Product,7,476,0,0,0
+S1311,2026-08-30,Organic Search,Desktop,Hyderabad,Contact,4,89,0,1,999
+S1312,2026-08-30,Organic Search,Desktop,Mumbai,Home,7,228,0,1,"2,999"
+S1313,2026-08-30,Email,Mobile,Delhi,Blog,1,30,1,0,0
+S1314,2026-08-30,Email,Mobile,Kolkata,Blog,1,7,1,0,0
+S1315,2026-08-30,Direct,Tablet,Delhi,Home,10,488,0,0,0
+S1316,2026-08-30,Direct,Desktop,Pune,Home,1,6,1,0,0
+S1317,2026-08-30,Direct,Mobile,Hyderabad,Product,9,293,0,0,0
+S1318,2026-08-30,Paid Ads,Mobile,Mumbai,Contact,1,14,1,0,0
+S1319,2026-08-30,Email,Desktop,Mumbai,Contact,6,424,0,1,999
+S1320,2026-08-30,Email,Mobile,Bangalore,Home,12,440,0,0,0
+S1321,2026-08-30,Social Media,Desktop,Mumbai,Product,6,300,0,0,0
+S1322,2026-08-30,Email,Desktop,Delhi,Pricing,12,107,0,0,0
+S1323,2026-08-30,Organic Search,Desktop,Ahmedabad,Blog,1,10,1,0,0
+S1324,2026-08-30,Organic Search,Mobile,Ahmedabad,Blog,1,23,1,0,0
+S1325,2026-08-30,Organic Search,Mobile,Chennai,Blog,10,393,0,0,0
+S1326,2026-08-30,Organic Search,Mobile,Kolkata,Product,10,386,0,0,0
+S1327,2026-08-31,Direct,Mobile,Kolkata,Contact,1,7,1,0,0
+S1328,2026-08-31,Direct,Desktop,Hyderabad,Product,2,51,0,0,0
+S1329,2026-08-31,Organic Search,Mobile,Chennai,Blog,1,4,1,0,0
+S1330,2026-08-31,Direct,Mobile,Chennai,Product,12,215,0,1,"2,999"
+S1331,2026-08-31,Social Media,Desktop,Pune,Home,2,269,0,0,0
+S1332,2026-08-31,Direct,Mobile,Hyderabad,Pricing,9,449,0,0,0
+S1333,2026-08-31,Email,Desktop,Mumbai,Product,10,362,0,0,0
+S1334,2026-08-31,Paid Ads,Desktop,Kolkata,Home,3,538,0,0,0
+S1335,2026-08-31,Referral,Desktop,Delhi,Home,4,164,0,0,0
+S1336,2026-08-31,Direct,Tablet,Bangalore,Home,6,532,0,0,0
+S1337,2026-08-31,Social Media,Desktop,Mumbai,Blog,1,4,1,0,0
+S1338,2026-08-31,Organic Search,Mobile,Hyderabad,Pricing,1,14,1,0,0
+S1339,2026-08-31,Organic Search,Mobile,Delhi,Blog,3,482,0,0,0
+S1340,2026-08-31,Organic Search,Mobile,Mumbai,Pricing,1,17,1,0,0
+S1341,2026-08-31,Direct,Mobile,Hyderabad,Product,6,86,0,0,0
+S1342,2026-08-31,Direct,Desktop,Ahmedabad,Home,2,441,0,0,0
+S1343,2026-08-31,Organic Search,Desktop,Kolkata,Blog,1,11,1,0,0
+S1344,2026-08-31,Social Media,Desktop,Bangalore,Product,6,130,0,0,0
+S1345,2026-09-01,Paid Ads,Desktop,Chennai,Home,8,105,0,0,0
+S1346,2026-09-01,Social Media,Mobile,Delhi,Product,1,19,1,0,0
+S1347,2026-09-01,Paid Ads,Mobile,Bangalore,Product,9,401,0,0,0
+S1348,2026-09-01,Organic Search,Mobile,Delhi,Blog,9,120,0,0,0
+S1349,2026-09-01,Paid Ads,Tablet,Mumbai,Product,5,378,0,0,0
+S1350,2026-09-01,Referral,Mobile,Bangalore,Product,4,331,0,0,0
+S1351,2026-09-01,Organic Search,Mobile,Delhi,Blog,1,26,1,0,0
+S1352,2026-09-01,Direct,Desktop,Ahmedabad,Home,5,213,0,0,0
+S1353,2026-09-01,Social Media,Mobile,Delhi,Home,1,24,1,0,0
+S1354,2026-09-01,Organic Search,Mobile,Kolkata,Blog,7,176,0,0,0
+S1355,2026-09-01,Organic Search,Mobile,Kolkata,Product,11,358,0,0,0
+S1356,2026-09-01,Email,Desktop,Delhi,Product,1,3,1,0,0
+S1357,2026-09-01,Organic Search,Mobile,Chennai,Product,8,477,0,0,0
+S1358,2026-09-01,Direct,Desktop,Bangalore,Product,1,6,1,0,0
+S1359,2026-09-01,Social Media,Desktop,Pune,Product,1,24,1,0,0
+S1360,2026-09-01,Paid Ads,Mobile,Mumbai,Product,9,334,0,0,0
+S1361,2026-09-01,Direct,Mobile,Pune,Pricing,12,285,0,1,999
+S1362,2026-09-01,Email,Tablet,Kolkata,Product,3,189,0,0,0
+S1363,2026-09-01,Paid Ads,Desktop,Ahmedabad,Product,1,9,1,0,0
+S1364,2026-09-01,Direct,Desktop,Hyderabad,Home,8,595,0,1,"1,999"
+S1365,2026-09-01,Direct,Mobile,Hyderabad,Blog,5,580,0,1,"2,999"
+S1366,2026-09-01,Direct,Mobile,Ahmedabad,Pricing,11,429,0,0,0
+S1367,2026-09-01,Organic Search,Desktop,Kolkata,Blog,1,23,1,0,0
+S1368,2026-09-01,Social Media,Desktop,Pune,Product,1,11,1,0,0
+S1369,2026-09-01,Direct,Mobile,Mumbai,Product,8,264,0,0,0
+S1370,2026-09-01,Social Media,Mobile,Bangalore,Product,1,12,1,0,0
+S1371,2026-09-01,Organic Search,Mobile,Mumbai,Home,11,594,0,0,0
+S1372,2026-09-02,Direct,Mobile,Mumbai,Home,1,28,1,0,0
+S1373,2026-09-02,Referral,Desktop,Delhi,Contact,7,576,0,0,0
+S1374,2026-09-02,Social Media,Mobile,Kolkata,Blog,1,10,1,0,0
+S1375,2026-09-02,Social Media,Mobile,Mumbai,Home,1,26,1,0,0
+S1376,2026-09-02,Organic Search,Desktop,Ahmedabad,Pricing,1,21,1,0,0
+S1377,2026-09-02,Social Media,Mobile,Kolkata,Home,12,384,0,0,0
+S1378,2026-09-02,Social Media,Mobile,Delhi,Product,2,150,0,0,0
+S1379,2026-09-02,Direct,Desktop,Ahmedabad,Home,1,6,1,0,0
+S1380,2026-09-02,Paid Ads,Mobile,Chennai,Home,10,50,0,0,0
+S1381,2026-09-02,Organic Search,Mobile,Hyderabad,Blog,1,12,1,0,0
+S1382,2026-09-02,Organic Search,Desktop,Delhi,Pricing,11,342,0,1,"1,499"
+S1383,2026-09-02,Social Media,Mobile,Hyderabad,Home,2,332,0,0,0
+S1384,2026-09-02,Direct,Mobile,Ahmedabad,Pricing,4,335,0,0,0
+S1385,2026-09-02,Organic Search,Mobile,Hyderabad,Blog,2,479,0,0,0
+S1386,2026-09-02,Paid Ads,Tablet,Kolkata,Product,4,377,0,0,0
+S1387,2026-09-02,Social Media,Mobile,Mumbai,Product,1,3,1,0,0
+S1388,2026-09-02,Referral,Desktop,Delhi,Home,6,329,0,0,0
+S1389,2026-09-02,Referral,Desktop,Chennai,Home,7,405,0,0,0
+S1390,2026-09-02,Organic Search,Desktop,Chennai,Pricing,1,29,1,0,0
+S1391,2026-09-02,Organic Search,Mobile,Mumbai,Product,8,380,0,0,0
+S1392,2026-09-02,Organic Search,Mobile,Delhi,Blog,8,97,0,0,0
+S1393,2026-09-03,Organic Search,Mobile,Hyderabad,Blog,10,153,0,0,0
+S1394,2026-09-03,Social Media,Mobile,Bangalore,Home,1,20,1,0,0
+S1395,2026-09-03,Paid Ads,Desktop,Pune,Home,8,417,0,0,0
+S1396,2026-09-03,Direct,Mobile,Mumbai,Blog,4,143,0,0,0
+S1397,2026-09-03,Email,Mobile,Delhi,Pricing,7,464,0,0,0
+S1398,2026-09-03,Direct,Mobile,Mumbai,Home,7,548,0,0,0
+S1399,2026-09-03,Organic Search,Mobile,Delhi,Blog,4,325,0,0,0
+S1400,2026-09-03,Social Media,Mobile,Kolkata,Blog,1,28,1,0,0
+S1401,2026-09-03,Paid Ads,Mobile,Bangalore,Home,10,366,0,0,0
+S1402,2026-09-03,Email,Mobile,Kolkata,Product,1,12,1,0,0
+S1403,2026-09-03,Paid Ads,Mobile,Hyderabad,Pricing,6,312,0,0,0
+S1404,2026-09-03,Referral,Tablet,Pune,Blog,7,443,0,0,0
+S1405,2026-09-04,Social Media,Desktop,Delhi,Blog,9,560,0,0,0
+S1406,2026-09-04,Direct,Mobile,Pune,Home,1,9,1,0,0
+S1407,2026-09-04,Organic Search,Desktop,Pune,Blog,9,534,0,0,0
+S1408,2026-09-04,Organic Search,Mobile,Kolkata,Blog,7,363,0,0,0
+S1409,2026-09-04,Paid Ads,Mobile,Kolkata,Home,5,418,0,0,0
+S1410,2026-09-04,Social Media,Mobile,Mumbai,Home,1,29,1,0,0
+S1411,2026-09-04,Social Media,Mobile,Kolkata,Blog,10,120,0,0,0
+S1412,2026-09-05,Organic Search,Mobile,Delhi,Pricing,7,426,0,0,0
+S1413,2026-09-05,Paid Ads,Mobile,Bangalore,Home,1,16,1,0,0
+S1414,2026-09-05,Referral,Desktop,Bangalore,Product,5,446,0,0,0
+S1415,2026-09-05,Direct,Desktop,Kolkata,Product,12,195,0,1,"4,999"
+S1416,2026-09-05,Organic Search,Desktop,Bangalore,Contact,1,35,1,0,0
+S1417,2026-09-05,Paid Ads,Mobile,Bangalore,Product,7,571,0,0,0
+S1418,2026-09-05,Organic Search,Mobile,Mumbai,Blog,7,442,0,0,0
+S1419,2026-09-05,Organic Search,Mobile,Hyderabad,Home,1,3,1,0,0
+S1420,2026-09-05,Paid Ads,Mobile,Kolkata,Product,9,549,0,0,0
+S1421,2026-09-05,Referral,Mobile,Ahmedabad,Blog,6,241,0,0,0
+S1422,2026-09-05,Direct,Mobile,Bangalore,Pricing,8,340,0,0,0
+S1423,2026-09-05,Paid Ads,Mobile,Ahmedabad,Product,7,503,0,0,0
+S1424,2026-09-05,Organic Search,Desktop,Mumbai,Blog,11,211,0,0,0
+S1425,2026-09-05,Direct,Mobile,Kolkata,Pricing,2,131,0,1,"4,999"
+S1426,2026-09-05,Social Media,Mobile,Bangalore,Home,11,425,0,0,0
+S1427,2026-09-05,Paid Ads,Mobile,Kolkata,Product,8,117,0,0,0
+S1428,2026-09-05,Organic Search,Mobile,Delhi,Blog,1,9,1,0,0
+S1429,2026-09-05,Organic Search,Desktop,Mumbai,Pricing,9,69,0,0,0
+S1430,2026-09-05,Paid Ads,Mobile,Mumbai,Product,2,546,0,0,0
+S1431,2026-09-05,Direct,Mobile,Delhi,Home,3,302,0,0,0
+S1432,2026-09-05,Organic Search,Desktop,Mumbai,Product,1,8,1,0,0
+S1433,2026-09-05,Direct,Mobile,Hyderabad,Pricing,11,296,0,0,0
+S1434,2026-09-05,Direct,Mobile,Kolkata,Blog,8,65,0,1,499
+S1435,2026-09-05,Organic Search,Desktop,Delhi,Blog,4,60,0,0,0
+S1436,2026-09-06,Organic Search,Desktop,Mumbai,Blog,3,243,0,0,0
+S1437,2026-09-06,Paid Ads,Mobile,Chennai,Product,1,23,1,0,0
+S1438,2026-09-06,Social Media,Desktop,Mumbai,Pricing,1,17,1,0,0
+S1439,2026-09-06,Referral,Desktop,Chennai,Pricing,3,159,0,1,"1,999"
+S1440,2026-09-06,Organic Search,Mobile,Bangalore,Pricing,1,29,1,0,0
+S1441,2026-09-06,Email,Desktop,Kolkata,Pricing,1,7,1,0,0
+S1442,2026-09-06,Social Media,Mobile,Mumbai,Contact,3,429,0,0,0
+S1443,2026-09-06,Organic Search,Mobile,Pune,Blog,10,161,0,0,0
+S1444,2026-09-06,Social Media,Tablet,Hyderabad,Product,6,244,0,0,0
+S1445,2026-09-06,Social Media,Tablet,Hyderabad,Blog,4,121,0,0,0
+S1446,2026-09-06,Direct,Mobile,Hyderabad,Blog,1,19,1,0,0
+S1447,2026-09-06,Paid Ads,Desktop,Mumbai,Product,7,599,0,0,0
+S1448,2026-09-06,Social Media,Desktop,Bangalore,Home,11,528,0,0,0
+S1449,2026-09-06,Referral,Tablet,Kolkata,Home,1,28,1,0,0
+S1450,2026-09-06,Referral,Mobile,Chennai,Blog,2,123,0,0,0
+S1451,2026-09-06,Direct,Desktop,Pune,Pricing,5,417,0,0,0
+S1452,2026-09-06,Referral,Desktop,Mumbai,Blog,4,588,0,0,0
+S1453,2026-09-06,Email,Mobile,Mumbai,Contact,1,13,1,0,0
+S1454,2026-09-06,Direct,Mobile,Ahmedabad,Product,4,244,0,0,0
+S1455,2026-09-06,Organic Search,Desktop,Delhi,Blog,2,556,0,0,0
+S1456,2026-09-06,Direct,Desktop,Hyderabad,Product,10,246,0,0,0
+S1457,2026-09-06,Organic Search,Mobile,Bangalore,Pricing,1,11,1,0,0
+S1458,2026-09-06,Organic Search,Desktop,Hyderabad,Home,3,362,0,0,0
+S1459,2026-09-06,Organic Search,Desktop,Pune,Blog,2,276,0,0,0
+S1460,2026-09-06,Paid Ads,Desktop,Chennai,Pricing,2,234,0,0,0
+S1461,2026-09-07,Paid Ads,Mobile,Bangalore,Product,1,4,1,0,0
+S1462,2026-09-07,Referral,Tablet,Mumbai,Blog,9,491,0,0,0
+S1463,2026-09-07,Organic Search,Mobile,Delhi,Home,10,407,0,1,"4,999"
+S1464,2026-09-07,Direct,Desktop,Bangalore,Product,1,9,1,0,0
+S1465,2026-09-07,Email,Desktop,Chennai,Pricing,10,217,0,0,0
+S1466,2026-09-07,Social Media,Desktop,Delhi,Product,9,421,0,0,0
+S1467,2026-09-07,Social Media,Desktop,Ahmedabad,Home,1,9,1,0,0
+S1468,2026-09-07,Direct,Mobile,Chennai,Pricing,1,19,1,0,0
+S1469,2026-09-07,Paid Ads,Mobile,Ahmedabad,Pricing,10,507,0,1,"4,999"
+S1470,2026-09-07,Direct,Desktop,Hyderabad,Pricing,1,7,1,0,0
+S1471,2026-09-07,Referral,Mobile,Ahmedabad,Product,3,90,0,0,0
+S1472,2026-09-07,Direct,Tablet,Mumbai,Home,1,29,1,0,0
+S1473,2026-09-07,Direct,Mobile,Bangalore,Product,8,130,0,0,0
+S1474,2026-09-07,Organic Search,Mobile,Chennai,Blog,8,63,0,0,0
+S1475,2026-09-07,Social Media,Mobile,Hyderabad,Blog,1,3,1,0,0
+S1476,2026-09-07,Organic Search,Mobile,Mumbai,Blog,1,10,1,0,0
+S1477,2026-09-07,Paid Ads,Desktop,Delhi,Blog,8,62,0,0,0
+S1478,2026-09-07,Paid Ads,Tablet,Mumbai,Product,6,383,0,0,0
+S1479,2026-09-07,Social Media,Mobile,Mumbai,Home,1,30,1,0,0
+S1480,2026-09-07,Email,Desktop,Bangalore,Product,6,84,0,0,0
+S1481,2026-09-07,Paid Ads,Desktop,Ahmedabad,Product,6,285,0,0,0
+S1482,2026-09-07,Organic Search,Desktop,Ahmedabad,Blog,10,198,0,0,0
+S1483,2026-09-08,Organic Search,Mobile,Ahmedabad,Blog,1,23,1,0,0
+S1484,2026-09-08,Direct,Mobile,Delhi,Home,3,85,0,0,0
+S1485,2026-09-08,Social Media,Mobile,Chennai,Home,5,199,0,1,"1,499"
+S1486,2026-09-08,Organic Search,Tablet,Ahmedabad,Blog,9,258,0,0,0
+S1487,2026-09-08,Direct,Mobile,Delhi,Blog,1,5,1,0,0
+S1488,2026-09-08,Social Media,Mobile,Delhi,Product,1,31,1,0,0
+S1489,2026-09-08,Direct,Desktop,Pune,Product,3,568,0,0,0
+S1490,2026-09-08,Social Media,Desktop,Mumbai,Home,5,356,0,0,0
+S1491,2026-09-08,Organic Search,Mobile,Kolkata,Home,1,35,1,0,0
+S1492,2026-09-08,Social Media,Desktop,Kolkata,Home,1,16,1,0,0
+S1493,2026-09-08,Social Media,Mobile,Delhi,Blog,1,31,1,0,0
+S1494,2026-09-08,Email,Desktop,Mumbai,Pricing,9,341,0,1,499
+S1495,2026-09-08,Email,Desktop,Delhi,Product,7,234,0,0,0
+S1496,2026-09-08,Social Media,Mobile,Delhi,Home,1,17,1,0,0
+S1497,2026-09-08,Referral,Desktop,Kolkata,Blog,4,142,0,0,0
+S1498,2026-09-08,Email,Desktop,Ahmedabad,Pricing,5,95,0,0,0
+S1499,2026-09-08,Organic Search,Mobile,Kolkata,Product,11,543,0,0,0
+S1500,2026-09-08,Organic Search,Desktop,Delhi,Home,1,17,1,0,0
+S1501,2026-09-08,Social Media,Mobile,Ahmedabad,Home,1,15,1,0,0
+S1502,2026-09-08,Paid Ads,Mobile,Delhi,Product,4,88,0,0,0
+S1503,2026-09-08,Organic Search,Mobile,Mumbai,Blog,1,19,1,0,0
+S1504,2026-09-09,Organic Search,Mobile,Pune,Pricing,1,3,1,0,0
+S1505,2026-09-09,Organic Search,Desktop,Mumbai,Blog,1,21,1,0,0
+S1506,2026-09-09,Email,Desktop,Mumbai,Pricing,10,54,0,1,"2,999"
+S1507,2026-09-09,Direct,Mobile,Hyderabad,Home,8,383,0,0,0
+S1508,2026-09-09,Organic Search,Mobile,Bangalore,Home,1,16,1,0,0
+S1509,2026-09-09,Organic Search,Mobile,Bangalore,Contact,1,33,1,0,0
+S1510,2026-09-09,Organic Search,Mobile,Mumbai,Home,11,336,0,0,0
+S1511,2026-09-09,Social Media,Desktop,Kolkata,Blog,1,7,1,0,0
+S1512,2026-09-09,Paid Ads,Mobile,Delhi,Product,1,8,1,0,0
+S1513,2026-09-09,Organic Search,Mobile,Hyderabad,Blog,1,25,1,0,0
+S1514,2026-09-09,Organic Search,Mobile,Delhi,Blog,1,8,1,0,0
+S1515,2026-09-09,Referral,Tablet,Bangalore,Home,1,13,1,0,0
+S1516,2026-09-09,Direct,Mobile,Kolkata,Home,4,384,0,0,0
+S1517,2026-09-09,Email,Desktop,Kolkata,Product,8,293,0,1,799
+S1518,2026-09-09,Paid Ads,Desktop,Bangalore,Home,4,322,0,0,0
+S1519,2026-09-09,Organic Search,Mobile,Delhi,Product,2,310,0,0,0
+S1520,2026-09-09,Paid Ads,Mobile,Kolkata,Product,9,148,0,0,0
+S1521,2026-09-09,Direct,Mobile,Delhi,Home,10,126,0,0,0
+S1522,2026-09-09,Email,Mobile,Delhi,Pricing,5,521,0,0,0
+S1523,2026-09-09,Social Media,Mobile,Delhi,Home,1,18,1,0,0
+S1524,2026-09-09,Organic Search,Mobile,Kolkata,Pricing,2,113,0,0,0
+S1525,2026-09-09,Organic Search,Desktop,Bangalore,Blog,4,201,0,0,0
+S1526,2026-09-09,Paid Ads,Desktop,Delhi,Pricing,1,32,1,0,0
+S1527,2026-09-09,Organic Search,Desktop,Bangalore,Pricing,4,157,0,0,0
+S1528,2026-09-09,Organic Search,Desktop,Ahmedabad,Blog,9,299,0,0,0
+S1529,2026-09-09,Social Media,Mobile,Chennai,Home,1,32,1,0,0
+S1530,2026-09-10,Organic Search,Mobile,Mumbai,Blog,1,29,1,0,0
+S1531,2026-09-10,Paid Ads,Desktop,Ahmedabad,Contact,1,28,1,0,0
+S1532,2026-09-10,Organic Search,Mobile,Hyderabad,Blog,1,24,1,0,0
+S1533,2026-09-10,Paid Ads,Mobile,Delhi,Product,4,482,0,0,0
+S1534,2026-09-10,Organic Search,Tablet,Ahmedabad,Blog,11,334,0,0,0
+S1535,2026-09-10,Direct,Desktop,Bangalore,Home,11,100,0,1,799
+S1536,2026-09-10,Direct,Desktop,Delhi,Home,6,397,0,0,0
+S1537,2026-09-10,Social Media,Mobile,Bangalore,Home,1,9,1,0,0
+S1538,2026-09-10,Direct,Mobile,Delhi,Contact,1,31,1,0,0
+S1539,2026-09-10,Social Media,Mobile,Delhi,Product,1,14,1,0,0
+S1540,2026-09-10,Social Media,Desktop,Mumbai,Home,8,397,0,0,0
+S1541,2026-09-10,Organic Search,Mobile,Mumbai,Product,3,386,0,0,0
+S1542,2026-09-10,Direct,Desktop,Pune,Pricing,7,504,0,0,0
+S1543,2026-09-10,Organic Search,Mobile,Mumbai,Home,5,255,0,0,0
+S1544,2026-09-10,Direct,Mobile,Delhi,Home,1,29,1,0,0
+S1545,2026-09-10,Social Media,Mobile,Chennai,Pricing,12,401,0,0,0
+S1546,2026-09-10,Organic Search,Desktop,Mumbai,Product,12,495,0,1,"4,999"
+S1547,2026-09-10,Paid Ads,Desktop,Delhi,Product,11,241,0,0,0
+S1548,2026-09-10,Organic Search,Mobile,Pune,Blog,1,4,1,0,0
+S1549,2026-09-10,Direct,Mobile,Bangalore,Home,1,12,1,0,0
+S1550,2026-09-10,Paid Ads,Mobile,Bangalore,Home,1,28,1,0,0
+S1551,2026-09-10,Social Media,Desktop,Bangalore,Pricing,6,48,0,0,0
+S1552,2026-09-11,Social Media,Mobile,Kolkata,Pricing,1,19,1,0,0
+S1553,2026-09-11,Direct,Desktop,Bangalore,Product,11,375,0,0,0
+S1554,2026-09-11,Social Media,Mobile,Bangalore,Product,1,4,1,0,0
+S1555,2026-09-11,Organic Search,Mobile,Delhi,Pricing,1,17,1,0,0
+S1556,2026-09-11,Email,Mobile,Bangalore,Product,8,321,0,0,0
+S1557,2026-09-11,Organic Search,Mobile,Ahmedabad,Blog,12,335,0,0,0
+S1558,2026-09-11,Direct,Desktop,Chennai,Product,7,114,0,0,0
+S1559,2026-09-11,Email,Mobile,Delhi,Product,2,224,0,0,0
+S1560,2026-09-11,Social Media,Desktop,Chennai,Product,2,579,0,0,0
+S1561,2026-09-11,Social Media,Mobile,Delhi,Product,7,305,0,0,0
+S1562,2026-09-11,Direct,Desktop,Bangalore,Home,8,97,0,0,0
+S1563,2026-09-11,Social Media,Desktop,Bangalore,Pricing,1,11,1,0,0
+S1564,2026-09-11,Social Media,Tablet,Mumbai,Home,1,27,1,0,0
+S1565,2026-09-11,Paid Ads,Mobile,Bangalore,Pricing,1,24,1,0,0
+S1566,2026-09-11,Paid Ads,Mobile,Mumbai,Product,1,35,1,0,0
+S1567,2026-09-11,Social Media,Desktop,Mumbai,Blog,9,495,0,0,0
+S1568,2026-09-11,Referral,Desktop,Mumbai,Product,8,50,0,0,0
+S1569,2026-09-11,Organic Search,Mobile,Mumbai,Blog,3,221,0,0,0
+S1570,2026-09-11,Organic Search,Mobile,Mumbai,Blog,1,26,1,0,0
+S1571,2026-09-11,Direct,Desktop,Mumbai,Pricing,12,456,0,0,0
+S1572,2026-09-11,Direct,Mobile,Ahmedabad,Home,6,264,0,0,0
+S1573,2026-09-11,Email,Mobile,Kolkata,Pricing,6,267,0,0,0
+S1574,2026-09-11,Direct,Desktop,Ahmedabad,Product,3,508,0,0,0
+S1575,2026-09-11,Social Media,Desktop,Hyderabad,Contact,3,434,0,0,0
+S1576,2026-09-11,Social Media,Mobile,Kolkata,Home,1,7,1,0,0
+S1577,2026-09-12,Organic Search,Desktop,Delhi,Blog,1,33,1,0,0
+S1578,2026-09-12,Email,Mobile,Kolkata,Pricing,1,16,1,0,0
+S1579,2026-09-12,Organic Search,Mobile,Bangalore,Blog,1,26,1,0,0
+S1580,2026-09-12,Email,Desktop,Hyderabad,Product,12,469,0,0,0
+S1581,2026-09-12,Social Media,Mobile,Mumbai,Home,3,278,0,0,0
+S1582,2026-09-12,Referral,Mobile,Hyderabad,Blog,1,5,1,0,0
+S1583,2026-09-12,Organic Search,Desktop,Kolkata,Blog,1,13,1,0,0
+S1584,2026-09-12,Organic Search,Tablet,Delhi,Pricing,1,15,1,0,0
+S1585,2026-09-12,Paid Ads,Desktop,Mumbai,Product,1,30,1,0,0
+S1586,2026-09-12,Organic Search,Desktop,Ahmedabad,Product,10,223,0,0,0
+S1587,2026-09-12,Organic Search,Mobile,Mumbai,Home,6,384,0,0,0
+S1588,2026-09-12,Organic Search,Mobile,Bangalore,Product,12,259,0,0,0
+S1589,2026-09-12,Social Media,Tablet,Delhi,Product,1,34,1,0,0
+S1590,2026-09-12,Organic Search,Mobile,Hyderabad,Blog,8,577,0,0,0
+S1591,2026-09-12,Organic Search,Desktop,Mumbai,Blog,11,579,0,0,0
+S1592,2026-09-12,Social Media,Mobile,Delhi,Product,5,478,0,0,0
+S1593,2026-09-12,Organic Search,Mobile,Bangalore,Pricing,6,54,0,0,0
+S1594,2026-09-12,Social Media,Desktop,Bangalore,Blog,1,17,1,0,0
+S1595,2026-09-12,Organic Search,Mobile,Mumbai,Product,4,517,0,0,0
+S1596,2026-09-12,Organic Search,Mobile,Pune,Product,1,16,1,0,0
+S1597,2026-09-12,Organic Search,Mobile,Pune,Blog,12,366,0,0,0
+S1598,2026-09-12,Paid Ads,Desktop,Kolkata,Product,1,4,1,0,0
+S1599,2026-09-13,Referral,Mobile,Hyderabad,Product,1,17,1,0,0
+S1600,2026-09-13,Direct,Mobile,Kolkata,Product,7,435,0,0,0
+S1601,2026-09-13,Direct,Mobile,Kolkata,Product,3,528,0,0,0
+S1602,2026-09-13,Paid Ads,Desktop,Bangalore,Pricing,1,16,1,0,0
+S1603,2026-09-13,Direct,Desktop,Kolkata,Home,1,26,1,0,0
+S1604,2026-09-13,Direct,Desktop,Bangalore,Home,1,9,1,0,0
+S1605,2026-09-13,Direct,Mobile,Bangalore,Pricing,5,275,0,0,0
+S1606,2026-09-13,Organic Search,Mobile,Chennai,Product,1,32,1,0,0
+S1607,2026-09-13,Organic Search,Mobile,Hyderabad,Product,1,13,1,0,0
+S1608,2026-09-13,Organic Search,Mobile,Chennai,Product,1,24,1,0,0
+S1609,2026-09-13,Organic Search,Desktop,Chennai,Product,5,478,0,0,0
+S1610,2026-09-13,Organic Search,Mobile,Mumbai,Product,7,89,0,0,0
+S1611,2026-09-13,Social Media,Mobile,Ahmedabad,Product,1,5,1,0,0
+S1612,2026-09-13,Organic Search,Mobile,Pune,Blog,4,345,0,1,"4,999"
+S1613,2026-09-13,Organic Search,Mobile,Kolkata,Pricing,1,31,1,0,0
+S1614,2026-09-13,Email,Mobile,Chennai,Product,5,432,0,0,0
+S1615,2026-09-13,Direct,Desktop,Kolkata,Home,3,211,0,0,0
+S1616,2026-09-13,Referral,Tablet,Delhi,Home,1,35,1,0,0
+S1617,2026-09-13,Referral,Mobile,Pune,Home,9,383,0,0,0
+S1618,2026-09-13,Paid Ads,Desktop,Delhi,Contact,10,475,0,0,0
+S1619,2026-09-13,Email,Mobile,Kolkata,Pricing,5,95,0,0,0
+S1620,2026-09-13,Organic Search,Mobile,Mumbai,Blog,1,18,1,0,0
+S1621,2026-09-13,Organic Search,Desktop,Hyderabad,Product,4,450,0,0,0
+S1622,2026-09-14,Social Media,Desktop,Mumbai,Home,12,546,0,0,0
+S1623,2026-09-14,Social Media,Desktop,Pune,Home,10,267,0,0,0
+S1624,2026-09-14,Email,Mobile,Kolkata,Pricing,4,72,0,0,0
+S1625,2026-09-14,Referral,Tablet,Chennai,Home,11,493,0,0,0
+S1626,2026-09-14,Organic Search,Tablet,Bangalore,Blog,7,144,0,0,0
+S1627,2026-09-14,Organic Search,Mobile,Kolkata,Pricing,1,23,1,0,0
+S1628,2026-09-14,Referral,Mobile,Delhi,Pricing,11,50,0,0,0
+S1629,2026-09-14,Organic Search,Mobile,Mumbai,Pricing,1,26,1,0,0
+S1630,2026-09-14,Referral,Mobile,Delhi,Pricing,7,524,0,0,0
+S1631,2026-09-14,Organic Search,Mobile,Hyderabad,Product,8,478,0,0,0
+S1632,2026-09-14,Direct,Desktop,Hyderabad,Pricing,10,130,0,1,499
+S1633,2026-09-14,Referral,Mobile,Hyderabad,Product,11,318,0,0,0
+S1634,2026-09-14,Organic Search,Desktop,Hyderabad,Product,5,142,0,1,"1,499"
+S1635,2026-09-14,Direct,Mobile,Bangalore,Home,1,4,1,0,0
+S1636,2026-09-14,Organic Search,Mobile,Bangalore,Home,4,354,0,0,0
+S1637,2026-09-14,Organic Search,Mobile,Kolkata,Blog,1,33,1,0,0
+S1638,2026-09-15,Email,Mobile,Chennai,Pricing,1,12,1,0,0
+S1639,2026-09-15,Organic Search,Mobile,Mumbai,Home,1,23,1,0,0
+S1640,2026-09-15,Paid Ads,Mobile,Kolkata,Home,1,7,1,0,0
+S1641,2026-09-15,Organic Search,Tablet,Kolkata,Home,8,380,0,0,0
+S1642,2026-09-15,Paid Ads,Mobile,Mumbai,Product,11,311,0,1,"1,499"
+S1643,2026-09-15,Organic Search,Desktop,Pune,Product,3,133,0,0,0
+S1644,2026-09-15,Email,Mobile,Chennai,Home,5,109,0,0,0
+S1645,2026-09-15,Direct,Mobile,Mumbai,Home,11,243,0,0,0
+S1646,2026-09-15,Email,Mobile,Delhi,Product,12,295,0,0,0
+S1647,2026-09-15,Organic Search,Mobile,Chennai,Blog,1,13,1,0,0
+S1648,2026-09-15,Organic Search,Desktop,Delhi,Home,6,480,0,0,0
+S1649,2026-09-15,Social Media,Desktop,Ahmedabad,Home,12,443,0,0,0
+S1650,2026-09-15,Direct,Desktop,Pune,Product,12,299,0,1,499
+S1651,2026-09-15,Paid Ads,Desktop,Bangalore,Product,9,263,0,0,0
+S1652,2026-09-16,Social Media,Desktop,Hyderabad,Home,6,280,0,0,0
+S1653,2026-09-16,Direct,Mobile,Pune,Contact,7,128,0,0,0
+S1654,2026-09-16,Organic Search,Tablet,Mumbai,Blog,1,5,1,0,0
+S1655,2026-09-16,Organic Search,Desktop,Hyderabad,Product,8,152,0,0,0
+S1656,2026-09-16,Social Media,Mobile,Chennai,Product,1,19,1,0,0
+S1657,2026-09-16,Direct,Mobile,Chennai,Home,10,351,0,0,0
+S1658,2026-09-16,Email,Mobile,Kolkata,Product,4,355,0,0,0
+S1659,2026-09-16,Direct,Mobile,Pune,Home,1,7,1,0,0
+S1660,2026-09-16,Email,Desktop,Pune,Contact,1,9,1,0,0
+S1661,2026-09-16,Paid Ads,Mobile,Mumbai,Pricing,1,9,1,0,0
+S1662,2026-09-16,Referral,Desktop,Delhi,Blog,1,5,1,0,0
+S1663,2026-09-16,Direct,Desktop,Chennai,Product,3,449,0,1,"4,999"
+S1664,2026-09-16,Organic Search,Mobile,Chennai,Contact,11,412,0,0,0
+S1665,2026-09-16,Direct,Desktop,Chennai,Product,5,406,0,0,0
+S1666,2026-09-16,Organic Search,Desktop,Delhi,Contact,11,564,0,0,0
+S1667,2026-09-16,Direct,Desktop,Chennai,Pricing,1,22,1,0,0
+S1668,2026-09-16,Organic Search,Desktop,Hyderabad,Blog,1,21,1,0,0
+S1669,2026-09-16,Email,Tablet,Bangalore,Home,4,295,0,0,0
+S1670,2026-09-16,Paid Ads,Desktop,Bangalore,Pricing,10,69,0,0,0
+S1671,2026-09-16,Paid Ads,Mobile,Bangalore,Product,8,302,0,0,0
+S1672,2026-09-16,Paid Ads,Mobile,Pune,Product,1,20,1,0,0
+S1673,2026-09-16,Direct,Desktop,Pune,Contact,3,416,0,1,999
+S1674,2026-09-16,Social Media,Mobile,Chennai,Blog,1,12,1,0,0
+S1675,2026-09-16,Social Media,Mobile,Pune,Home,1,10,1,0,0
+S1676,2026-09-17,Organic Search,Mobile,Hyderabad,Contact,1,31,1,0,0
+S1677,2026-09-17,Direct,Mobile,Mumbai,Product,2,186,0,0,0
+S1678,2026-09-17,Direct,Tablet,Hyderabad,Product,1,9,1,0,0
+S1679,2026-09-17,Paid Ads,Mobile,Bangalore,Product,1,10,1,0,0
+S1680,2026-09-17,Organic Search,Desktop,Bangalore,Blog,1,5,1,0,0
+S1681,2026-09-17,Organic Search,Mobile,Mumbai,Blog,11,226,0,0,0
+S1682,2026-09-17,Organic Search,Mobile,Delhi,Blog,6,388,0,0,0
+S1683,2026-09-17,Social Media,Mobile,Delhi,Blog,11,229,0,0,0
+S1684,2026-09-17,Email,Mobile,Chennai,Home,3,149,0,0,0
+S1685,2026-09-17,Organic Search,Mobile,Ahmedabad,Pricing,1,26,1,0,0
+S1686,2026-09-17,Paid Ads,Mobile,Bangalore,Pricing,1,28,1,0,0
+S1687,2026-09-17,Organic Search,Mobile,Mumbai,Blog,1,13,1,0,0
+S1688,2026-09-17,Organic Search,Mobile,Mumbai,Home,11,490,0,0,0
+S1689,2026-09-17,Email,Mobile,Delhi,Pricing,8,124,0,0,0
+S1690,2026-09-17,Direct,Tablet,Bangalore,Home,9,490,0,1,999
+S1691,2026-09-17,Social Media,Mobile,Hyderabad,Pricing,1,32,1,0,0
+S1692,2026-09-17,Social Media,Mobile,Delhi,Product,1,23,1,0,0
+S1693,2026-09-17,Direct,Mobile,Bangalore,Contact,1,15,1,0,0
+S1694,2026-09-17,Direct,Mobile,Ahmedabad,Home,8,124,0,0,0
+S1695,2026-09-18,Paid Ads,Mobile,Bangalore,Pricing,7,241,0,0,0
+S1696,2026-09-18,Social Media,Mobile,Bangalore,Blog,5,211,0,0,0
+S1697,2026-09-18,Social Media,Desktop,Chennai,Contact,12,71,0,0,0
+S1698,2026-09-18,Direct,Mobile,Kolkata,Home,7,135,0,0,0
+S1699,2026-09-18,Organic Search,Mobile,Bangalore,Product,1,26,1,0,0
+S1700,2026-09-18,Social Media,Mobile,Mumbai,Product,1,28,1,0,0
+S1701,2026-09-18,Organic Search,Mobile,Chennai,Blog,10,256,0,0,0
+S1702,2026-09-18,Email,Mobile,Kolkata,Product,11,326,0,0,0
+S1703,2026-09-18,Social Media,Desktop,Bangalore,Home,1,34,1,0,0
+S1704,2026-09-18,Organic Search,Desktop,Kolkata,Blog,5,449,0,0,0
+S1705,2026-09-18,Organic Search,Mobile,Delhi,Blog,1,18,1,0,0
+S1706,2026-09-18,Organic Search,Mobile,Delhi,Home,4,113,0,0,0
+S1707,2026-09-18,Direct,Mobile,Mumbai,Product,1,30,1,0,0
+S1708,2026-09-18,Organic Search,Mobile,Bangalore,Product,1,15,1,0,0
+S1709,2026-09-18,Paid Ads,Desktop,Kolkata,Product,6,485,0,0,0
+S1710,2026-09-19,Paid Ads,Mobile,Hyderabad,Home,5,207,0,0,0
+S1711,2026-09-19,Direct,Desktop,Hyderabad,Home,3,382,0,1,"2,999"
+S1712,2026-09-19,Email,Mobile,Bangalore,Product,12,354,0,0,0
+S1713,2026-09-19,Organic Search,Desktop,Delhi,Blog,8,498,0,0,0
+S1714,2026-09-19,Organic Search,Mobile,Pune,Blog,10,64,0,0,0
+S1715,2026-09-19,Organic Search,Desktop,Ahmedabad,Contact,1,25,1,0,0
+S1716,2026-09-19,Organic Search,Tablet,Bangalore,Blog,1,27,1,0,0
+S1717,2026-09-19,Direct,Mobile,Chennai,Home,1,11,1,0,0
+S1718,2026-09-19,Paid Ads,Mobile,Hyderabad,Product,12,137,0,0,0
+S1719,2026-09-19,Organic Search,Mobile,Delhi,Product,1,5,1,0,0
+S1720,2026-09-19,Organic Search,Desktop,Mumbai,Blog,12,577,0,0,0
+S1721,2026-09-19,Paid Ads,Mobile,Kolkata,Product,1,10,1,0,0
+S1722,2026-09-19,Organic Search,Mobile,Hyderabad,Contact,1,35,1,0,0
+S1723,2026-09-19,Paid Ads,Mobile,Delhi,Home,1,33,1,0,0
+S1724,2026-09-19,Social Media,Mobile,Kolkata,Product,1,14,1,0,0
+S1725,2026-09-19,Email,Mobile,Mumbai,Home,5,79,0,0,0
+S1726,2026-09-19,Direct,Mobile,Chennai,Product,4,82,0,0,0
+S1727,2026-09-19,Organic Search,Mobile,Mumbai,Contact,1,26,1,0,0
+S1728,2026-09-19,Email,Mobile,Mumbai,Home,6,317,0,0,0
+S1729,2026-09-19,Paid Ads,Tablet,Mumbai,Product,4,187,0,0,0
+S1730,2026-09-19,Direct,Mobile,Mumbai,Product,3,194,0,0,0
+S1731,2026-09-19,Paid Ads,Desktop,Delhi,Pricing,1,24,1,0,0
+S1732,2026-09-19,Organic Search,Mobile,Kolkata,Pricing,1,25,1,0,0
+S1733,2026-09-19,Organic Search,Desktop,Bangalore,Product,1,16,1,0,0
+S1734,2026-09-20,Organic Search,Desktop,Mumbai,Pricing,5,377,0,0,0
+S1735,2026-09-20,Email,Mobile,Kolkata,Product,9,109,0,1,"1,499"
+S1736,2026-09-20,Referral,Desktop,Bangalore,Product,2,121,0,0,0
+S1737,2026-09-20,Email,Mobile,Pune,Product,3,299,0,0,0
+S1738,2026-09-20,Organic Search,Mobile,Chennai,Blog,9,189,0,0,0
+S1739,2026-09-20,Email,Desktop,Kolkata,Product,11,171,0,0,0
+S1740,2026-09-20,Direct,Desktop,Mumbai,Home,9,323,0,0,0
+S1741,2026-09-20,Social Media,Desktop,Chennai,Product,1,29,1,0,0
+S1742,2026-09-20,Social Media,Mobile,Chennai,Blog,4,197,0,0,0
+S1743,2026-09-20,Organic Search,Desktop,Mumbai,Product,9,172,0,0,0
+S1744,2026-09-20,Social Media,Tablet,Kolkata,Home,10,243,0,0,0
+S1745,2026-09-20,Referral,Desktop,Kolkata,Contact,6,557,0,0,0
+S1746,2026-09-20,Social Media,Mobile,Bangalore,Home,5,473,0,0,0
+S1747,2026-09-20,Organic Search,Mobile,Delhi,Product,5,389,0,0,0
+S1748,2026-09-20,Social Media,Desktop,Mumbai,Product,5,320,0,0,0
+S1749,2026-09-20,Paid Ads,Tablet,Pune,Product,3,82,0,0,0
+S1750,2026-09-20,Referral,Desktop,Bangalore,Product,1,12,1,0,0
+S1751,2026-09-20,Organic Search,Desktop,Chennai,Blog,5,185,0,0,0
+S1752,2026-09-20,Organic Search,Mobile,Kolkata,Blog,7,559,0,0,0
+S1753,2026-09-20,Direct,Desktop,Ahmedabad,Home,1,17,1,0,0
+S1754,2026-09-20,Paid Ads,Mobile,Delhi,Pricing,1,21,1,0,0
+S1755,2026-09-20,Direct,Mobile,Kolkata,Contact,6,428,0,1,"1,499"
+S1756,2026-09-20,Social Media,Desktop,Kolkata,Product,10,234,0,0,0
+S1757,2026-09-20,Referral,Desktop,Delhi,Product,1,21,1,0,0
+S1758,2026-09-21,Email,Mobile,Hyderabad,Product,8,327,0,0,0
+S1759,2026-09-21,Organic Search,Desktop,Delhi,Blog,2,96,0,0,0
+S1760,2026-09-21,Social Media,Tablet,Bangalore,Home,1,25,1,0,0
+S1761,2026-09-21,Direct,Mobile,Mumbai,Home,12,475,0,0,0
+S1762,2026-09-21,Organic Search,Desktop,Kolkata,Home,4,139,0,0,0
+S1763,2026-09-21,Direct,Mobile,Hyderabad,Product,3,91,0,0,0
+S1764,2026-09-21,Organic Search,Desktop,Pune,Blog,2,189,0,1,499
+S1765,2026-09-21,Organic Search,Mobile,Bangalore,Blog,1,28,1,0,0
+S1766,2026-09-21,Social Media,Mobile,Mumbai,Home,1,33,1,0,0
+S1767,2026-09-21,Organic Search,Mobile,Mumbai,Product,1,8,1,0,0
+S1768,2026-09-21,Paid Ads,Tablet,Chennai,Product,1,27,1,0,0
+S1769,2026-09-21,Referral,Desktop,Mumbai,Product,6,173,0,1,499
+S1770,2026-09-21,Organic Search,Desktop,Delhi,Blog,2,519,0,0,0
+S1771,2026-09-21,Referral,Mobile,Delhi,Product,6,158,0,0,0
+S1772,2026-09-21,Organic Search,Mobile,Ahmedabad,Blog,3,427,0,0,0
+S1773,2026-09-21,Direct,Mobile,Delhi,Product,1,12,1,0,0
+S1774,2026-09-21,Social Media,Mobile,Delhi,Blog,1,33,1,0,0
+S1775,2026-09-21,Paid Ads,Desktop,Bangalore,Home,9,585,0,0,0
+S1776,2026-09-21,Paid Ads,Desktop,Kolkata,Home,11,142,0,1,"4,999"
+S1777,2026-09-21,Email,Tablet,Mumbai,Product,4,57,0,0,0
+S1778,2026-09-21,Direct,Mobile,Delhi,Home,7,507,0,0,0
+S1779,2026-09-21,Paid Ads,Mobile,Chennai,Product,1,28,1,0,0
+S1780,2026-09-21,Referral,Mobile,Bangalore,Pricing,4,136,0,0,0
+S1781,2026-09-21,Organic Search,Mobile,Bangalore,Product,10,143,0,0,0
+S1782,2026-09-21,Social Media,Mobile,Delhi,Blog,1,16,1,0,0
+S1783,2026-09-22,Direct,Mobile,Mumbai,Contact,12,351,0,0,0
+S1784,2026-09-22,Organic Search,Mobile,Bangalore,Blog,1,34,1,0,0
+S1785,2026-09-22,Organic Search,Desktop,Kolkata,Contact,3,460,0,0,0
+S1786,2026-09-22,Organic Search,Mobile,Kolkata,Blog,1,28,1,0,0
+S1787,2026-09-22,Paid Ads,Desktop,Hyderabad,Product,1,30,1,0,0
+S1788,2026-09-22,Paid Ads,Desktop,Delhi,Product,1,25,1,0,0
+S1789,2026-09-22,Direct,Desktop,Delhi,Home,9,594,0,1,"1,999"
+S1790,2026-09-22,Email,Mobile,Delhi,Pricing,7,542,0,0,0
+S1791,2026-09-22,Direct,Mobile,Delhi,Home,8,543,0,0,0
+S1792,2026-09-22,Email,Mobile,Delhi,Pricing,1,35,1,0,0
+S1793,2026-09-22,Organic Search,Desktop,Bangalore,Blog,1,16,1,0,0
+S1794,2026-09-22,Referral,Mobile,Bangalore,Product,8,512,0,0,0
+S1795,2026-09-22,Organic Search,Desktop,Kolkata,Blog,5,501,0,0,0
+S1796,2026-09-22,Organic Search,Desktop,Pune,Blog,1,13,1,0,0
+S1797,2026-09-22,Organic Search,Mobile,Mumbai,Blog,3,544,0,1,"4,999"
+S1798,2026-09-22,Direct,Mobile,Chennai,Pricing,1,9,1,0,0
+S1799,2026-09-22,Organic Search,Mobile,Chennai,Blog,1,34,1,0,0
+S1800,2026-09-22,Direct,Mobile,Delhi,Pricing,7,390,0,0,0
+S1801,2026-09-22,Social Media,Desktop,Mumbai,Home,3,384,0,0,0
+S1802,2026-09-22,Direct,Desktop,Delhi,Home,8,254,0,1,499
+S1803,2026-09-22,Paid Ads,Mobile,Hyderabad,Pricing,1,30,1,0,0
+S1804,2026-09-22,Email,Mobile,Mumbai,Product,7,355,0,0,0
+S1805,2026-09-22,Organic Search,Mobile,Ahmedabad,Blog,1,10,1,0,0
+S1806,2026-09-23,Social Media,Tablet,Mumbai,Contact,1,3,1,0,0
+S1807,2026-09-23,Direct,Desktop,Bangalore,Product,4,144,0,0,0
+S1808,2026-09-23,Organic Search,Tablet,Hyderabad,Home,2,291,0,0,0
+S1809,2026-09-23,Paid Ads,Desktop,Mumbai,Product,1,23,1,0,0
+S1810,2026-09-23,Social Media,Mobile,Bangalore,Home,5,343,0,0,0
+S1811,2026-09-23,Paid Ads,Desktop,Bangalore,Pricing,4,345,0,1,799
+S1812,2026-09-23,Organic Search,Desktop,Kolkata,Blog,7,411,0,0,0
+S1813,2026-09-23,Referral,Mobile,Delhi,Home,1,24,1,0,0
+S1814,2026-09-23,Social Media,Mobile,Mumbai,Product,9,319,0,0,0
+S1815,2026-09-23,Organic Search,Desktop,Bangalore,Blog,8,360,0,0,0
+S1816,2026-09-23,Social Media,Mobile,Delhi,Home,8,335,0,0,0
+S1817,2026-09-23,Direct,Mobile,Mumbai,Contact,11,77,0,0,0
+S1818,2026-09-23,Organic Search,Mobile,Bangalore,Blog,1,25,1,0,0
+S1819,2026-09-23,Organic Search,Mobile,Kolkata,Home,9,188,0,0,0
+S1820,2026-09-23,Social Media,Mobile,Delhi,Home,10,598,0,0,0
+S1821,2026-09-23,Referral,Desktop,Bangalore,Product,5,404,0,0,0
+S1822,2026-09-23,Organic Search,Mobile,Bangalore,Blog,1,23,1,0,0
+S1823,2026-09-23,Direct,Mobile,Ahmedabad,Product,1,24,1,0,0
+S1824,2026-09-24,Organic Search,Desktop,Mumbai,Pricing,9,368,0,0,0
+S1825,2026-09-24,Referral,Mobile,Pune,Pricing,1,30,1,0,0
+S1826,2026-09-24,Social Media,Mobile,Bangalore,Product,1,32,1,0,0
+S1827,2026-09-24,Organic Search,Mobile,Chennai,Blog,12,584,0,0,0
+S1828,2026-09-24,Social Media,Desktop,Ahmedabad,Pricing,1,5,1,0,0
+S1829,2026-09-24,Direct,Desktop,Bangalore,Home,4,482,0,0,0
+S1830,2026-09-24,Organic Search,Desktop,Delhi,Blog,11,351,0,0,0
+S1831,2026-09-24,Organic Search,Desktop,Bangalore,Home,10,302,0,0,0
+S1832,2026-09-24,Email,Desktop,Mumbai,Pricing,4,249,0,1,"1,499"
+S1833,2026-09-24,Organic Search,Desktop,Chennai,Product,9,384,0,0,0
+S1834,2026-09-24,Organic Search,Mobile,Delhi,Home,1,33,1,0,0
+S1835,2026-09-24,Social Media,Desktop,Mumbai,Blog,1,32,1,0,0
+S1836,2026-09-24,Email,Desktop,Pune,Product,4,376,0,0,0
+S1837,2026-09-24,Social Media,Mobile,Mumbai,Product,1,29,1,0,0
+S1838,2026-09-24,Organic Search,Mobile,Hyderabad,Product,1,33,1,0,0
+S1839,2026-09-24,Direct,Mobile,Kolkata,Home,1,25,1,0,0
+S1840,2026-09-24,Social Media,Tablet,Delhi,Blog,1,15,1,0,0
+S1841,2026-09-24,Social Media,Desktop,Delhi,Blog,1,30,1,0,0
+S1842,2026-09-24,Organic Search,Mobile,Mumbai,Contact,1,23,1,0,0
+S1843,2026-09-24,Email,Mobile,Delhi,Product,12,293,0,0,0
+S1844,2026-09-24,Organic Search,Mobile,Chennai,Blog,11,587,0,0,0
+S1845,2026-09-24,Direct,Mobile,Kolkata,Home,2,130,0,0,0
+S1846,2026-09-24,Social Media,Mobile,Mumbai,Product,6,462,0,0,0
+S1847,2026-09-25,Referral,Desktop,Kolkata,Product,11,66,0,0,0
+S1848,2026-09-25,Organic Search,Mobile,Delhi,Blog,1,27,1,0,0
+S1849,2026-09-25,Organic Search,Mobile,Delhi,Home,9,584,0,0,0
+S1850,2026-09-25,Organic Search,Desktop,Bangalore,Blog,5,354,0,0,0
+S1851,2026-09-25,Direct,Desktop,Kolkata,Contact,7,485,0,1,499
+S1852,2026-09-25,Referral,Mobile,Mumbai,Blog,4,466,0,0,0
+S1853,2026-09-25,Organic Search,Desktop,Bangalore,Home,4,273,0,0,0
+S1854,2026-09-25,Direct,Mobile,Mumbai,Product,11,451,0,0,0
+S1855,2026-09-25,Direct,Mobile,Bangalore,Home,11,274,0,0,0
+S1856,2026-09-25,Paid Ads,Mobile,Kolkata,Blog,10,475,0,0,0
+S1857,2026-09-25,Paid Ads,Desktop,Kolkata,Product,12,277,0,0,0
+S1858,2026-09-25,Organic Search,Desktop,Chennai,Blog,5,82,0,0,0
+S1859,2026-09-25,Paid Ads,Mobile,Pune,Product,1,5,1,0,0
+S1860,2026-09-25,Email,Mobile,Bangalore,Product,12,244,0,0,0
+S1861,2026-09-25,Referral,Desktop,Delhi,Home,5,157,0,0,0
+S1862,2026-09-25,Organic Search,Mobile,Chennai,Blog,5,253,0,0,0
+S1863,2026-09-25,Email,Desktop,Hyderabad,Contact,6,134,0,1,499
+S1864,2026-09-25,Organic Search,Desktop,Ahmedabad,Blog,7,528,0,0,0
+S1865,2026-09-25,Referral,Mobile,Hyderabad,Pricing,4,430,0,0,0
+S1866,2026-09-25,Paid Ads,Mobile,Delhi,Product,3,460,0,1,799
+S1867,2026-09-25,Paid Ads,Mobile,Mumbai,Pricing,1,3,1,0,0
+S1868,2026-09-25,Social Media,Desktop,Ahmedabad,Home,4,353,0,0,0
+S1869,2026-09-25,Organic Search,Mobile,Delhi,Blog,1,3,1,0,0
+S1870,2026-09-25,Direct,Mobile,Delhi,Pricing,10,599,0,0,0
+S1871,2026-09-25,Email,Mobile,Bangalore,Product,1,20,1,0,0
+S1872,2026-09-26,Email,Mobile,Mumbai,Product,12,131,0,0,0
+S1873,2026-09-26,Email,Mobile,Chennai,Blog,1,17,1,0,0
+S1874,2026-09-26,Social Media,Mobile,Delhi,Home,1,11,1,0,0
+S1875,2026-09-26,Referral,Desktop,Bangalore,Blog,12,136,0,0,0
+S1876,2026-09-26,Email,Mobile,Bangalore,Product,9,115,0,0,0
+S1877,2026-09-26,Organic Search,Mobile,Bangalore,Blog,1,16,1,0,0
+S1878,2026-09-26,Direct,Mobile,Bangalore,Home,9,168,0,0,0
+S1879,2026-09-26,Organic Search,Tablet,Chennai,Product,10,202,0,0,0
+S1880,2026-09-26,Referral,Mobile,Bangalore,Product,1,25,1,0,0
+S1881,2026-09-26,Referral,Mobile,Kolkata,Blog,3,386,0,0,0
+S1882,2026-09-26,Direct,Tablet,Pune,Home,9,313,0,0,0
+S1883,2026-09-26,Direct,Mobile,Hyderabad,Product,9,532,0,0,0
+S1884,2026-09-26,Social Media,Desktop,Kolkata,Pricing,1,26,1,0,0
+S1885,2026-09-26,Organic Search,Mobile,Hyderabad,Blog,7,241,0,0,0
+S1886,2026-09-26,Organic Search,Tablet,Hyderabad,Blog,9,47,0,0,0
+S1887,2026-09-26,Social Media,Mobile,Hyderabad,Home,5,186,0,0,0
+S1888,2026-09-26,Paid Ads,Mobile,Bangalore,Product,1,12,1,0,0
+S1889,2026-09-26,Email,Mobile,Delhi,Home,1,24,1,0,0
+S1890,2026-09-26,Direct,Mobile,Pune,Product,3,548,0,0,0
+S1891,2026-09-26,Direct,Desktop,Bangalore,Home,1,6,1,0,0
+S1892,2026-09-26,Referral,Desktop,Hyderabad,Home,1,14,1,0,0
+S1893,2026-09-26,Organic Search,Mobile,Mumbai,Blog,1,30,1,0,0
+S1894,2026-09-26,Direct,Desktop,Ahmedabad,Home,5,180,0,0,0
+S1895,2026-09-26,Direct,Desktop,Mumbai,Home,6,521,0,0,0
+S1896,2026-09-26,Email,Desktop,Chennai,Product,5,328,0,0,0
+S1897,2026-09-26,Email,Mobile,Delhi,Pricing,2,99,0,0,0
+S1898,2026-09-26,Social Media,Mobile,Mumbai,Product,11,428,0,0,0
+S1899,2026-09-26,Paid Ads,Mobile,Chennai,Product,10,373,0,0,0
+S1900,2026-09-26,Organic Search,Mobile,Mumbai,Blog,1,5,1,0,0
+S1901,2026-09-26,Email,Desktop,Mumbai,Product,6,237,0,0,0
+S1902,2026-09-26,Paid Ads,Mobile,Delhi,Product,1,15,1,0,0
+S1903,2026-09-26,Organic Search,Mobile,Ahmedabad,Home,10,496,0,0,0
+S1904,2026-09-26,Organic Search,Mobile,Delhi,Blog,5,586,0,0,0
+S1905,2026-09-26,Direct,Desktop,Chennai,Product,8,235,0,0,0
+S1906,2026-09-27,Organic Search,Mobile,Kolkata,Product,1,16,1,0,0
+S1907,2026-09-27,Direct,Desktop,Ahmedabad,Product,11,530,0,0,0
+S1908,2026-09-27,Social Media,Desktop,Pune,Pricing,1,33,1,0,0
+S1909,2026-09-27,Direct,Desktop,Delhi,Home,1,29,1,0,0
+S1910,2026-09-27,Social Media,Desktop,Bangalore,Blog,1,5,1,0,0
+S1911,2026-09-27,Organic Search,Mobile,Mumbai,Blog,5,599,0,1,"4,999"
+S1912,2026-09-27,Social Media,Mobile,Delhi,Home,1,8,1,0,0
+S1913,2026-09-27,Organic Search,Mobile,Delhi,Home,9,435,0,0,0
+S1914,2026-09-27,Organic Search,Mobile,Bangalore,Pricing,1,14,1,0,0
+S1915,2026-09-27,Organic Search,Mobile,Bangalore,Blog,1,28,1,0,0
+S1916,2026-09-27,Organic Search,Desktop,Bangalore,Blog,7,459,0,0,0
+S1917,2026-09-27,Organic Search,Mobile,Mumbai,Product,8,321,0,0,0
+S1918,2026-09-27,Direct,Desktop,Hyderabad,Home,8,285,0,0,0
+S1919,2026-09-27,Organic Search,Desktop,Kolkata,Product,2,107,0,0,0
+S1920,2026-09-27,Organic Search,Desktop,Mumbai,Home,9,176,0,0,0
+S1921,2026-09-27,Organic Search,Desktop,Ahmedabad,Blog,10,338,0,0,0
+S1922,2026-09-27,Social Media,Mobile,Delhi,Product,7,529,0,0,0
+S1923,2026-09-27,Paid Ads,Desktop,Delhi,Blog,5,460,0,0,0
+S1924,2026-09-27,Paid Ads,Mobile,Bangalore,Home,7,547,0,0,0
+S1925,2026-09-27,Direct,Desktop,Kolkata,Product,10,153,0,0,0
+S1926,2026-09-27,Social Media,Desktop,Chennai,Home,1,13,1,0,0
+S1927,2026-09-27,Social Media,Mobile,Kolkata,Product,11,93,0,0,0
+S1928,2026-09-27,Paid Ads,Desktop,Kolkata,Home,8,394,0,1,"4,999"
+S1929,2026-09-28,Email,Mobile,Delhi,Pricing,12,118,0,0,0
+S1930,2026-09-28,Organic Search,Desktop,Chennai,Product,12,168,0,0,0
+S1931,2026-09-28,Social Media,Mobile,Bangalore,Home,1,16,1,0,0
+S1932,2026-09-28,Email,Mobile,Chennai,Product,4,183,0,1,"4,999"
+S1933,2026-09-28,Email,Mobile,Delhi,Home,3,352,0,1,"2,999"
+S1934,2026-09-28,Organic Search,Mobile,Hyderabad,Home,1,10,1,0,0
+S1935,2026-09-28,Organic Search,Mobile,Mumbai,Product,10,316,0,0,0
+S1936,2026-09-28,Paid Ads,Mobile,Kolkata,Product,8,118,0,0,0
+S1937,2026-09-28,Organic Search,Desktop,Bangalore,Blog,7,364,0,0,0
+S1938,2026-09-28,Paid Ads,Desktop,Pune,Product,9,154,0,0,0
+S1939,2026-09-28,Email,Mobile,Bangalore,Product,12,169,0,0,0
+S1940,2026-09-28,Organic Search,Mobile,Kolkata,Blog,1,34,1,0,0
+S1941,2026-09-28,Email,Mobile,Mumbai,Pricing,3,518,0,0,0
+S1942,2026-09-28,Organic Search,Desktop,Mumbai,Blog,5,550,0,0,0
+S1943,2026-09-28,Email,Mobile,Mumbai,Pricing,4,548,0,1,499
+S1944,2026-09-28,Paid Ads,Tablet,Delhi,Product,8,345,0,0,0
+S1945,2026-09-28,Referral,Desktop,Bangalore,Product,1,34,1,0,0
+S1946,2026-09-28,Organic Search,Mobile,Mumbai,Product,1,35,1,0,0
+S1947,2026-09-28,Direct,Desktop,Hyderabad,Pricing,1,26,1,0,0
+S1948,2026-09-28,Direct,Mobile,Ahmedabad,Product,3,330,0,0,0
+S1949,2026-09-28,Paid Ads,Mobile,Bangalore,Pricing,1,27,1,0,0
+S1950,2026-09-28,Paid Ads,Mobile,Hyderabad,Product,9,471,0,0,0
+S1951,2026-09-28,Email,Desktop,Mumbai,Pricing,7,414,0,0,0
+S1952,2026-09-28,Organic Search,Desktop,Pune,Blog,8,250,0,0,0
+S1953,2026-09-28,Referral,Mobile,Mumbai,Product,1,16,1,0,0
+S1954,2026-09-28,Paid Ads,Mobile,Kolkata,Product,1,26,1,0,0
+S1955,2026-09-28,Social Media,Mobile,Chennai,Blog,12,112,0,0,0
+S1956,2026-09-29,Social Media,Mobile,Mumbai,Home,12,223,0,0,0
+S1957,2026-09-29,Email,Mobile,Mumbai,Product,1,21,1,0,0
+S1958,2026-09-29,Direct,Desktop,Bangalore,Pricing,11,131,0,0,0
+S1959,2026-09-29,Organic Search,Desktop,Hyderabad,Home,1,3,1,0,0
+S1960,2026-09-29,Organic Search,Desktop,Delhi,Blog,11,190,0,0,0
+S1961,2026-09-29,Email,Mobile,Delhi,Contact,1,26,1,0,0
+S1962,2026-09-29,Email,Desktop,Bangalore,Contact,10,337,0,0,0
+S1963,2026-09-29,Organic Search,Desktop,Mumbai,Product,2,202,0,0,0
+S1964,2026-09-29,Direct,Mobile,Ahmedabad,Home,12,325,0,0,0
+S1965,2026-09-29,Direct,Mobile,Bangalore,Product,1,27,1,0,0
+S1966,2026-09-29,Organic Search,Desktop,Mumbai,Blog,1,29,1,0,0
+S1967,2026-09-29,Direct,Desktop,Delhi,Product,4,249,0,1,"1,499"
+S1968,2026-09-29,Direct,Mobile,Kolkata,Home,7,520,0,0,0
+S1969,2026-09-29,Organic Search,Desktop,Bangalore,Blog,1,11,1,0,0
+S1970,2026-09-29,Direct,Desktop,Bangalore,Home,10,109,0,1,799
+S1971,2026-09-29,Social Media,Desktop,Mumbai,Home,3,500,0,0,0
+S1972,2026-09-29,Referral,Mobile,Hyderabad,Blog,1,26,1,0,0
+S1973,2026-09-29,Direct,Mobile,Delhi,Home,7,493,0,0,0
+S1974,2026-09-29,Organic Search,Mobile,Kolkata,Pricing,1,19,1,0,0
+S1975,2026-09-29,Paid Ads,Desktop,Chennai,Blog,11,146,0,0,0
+S1976,2026-09-30,Direct,Desktop,Mumbai,Product,2,140,0,0,0
+S1977,2026-09-30,Organic Search,Mobile,Delhi,Blog,3,336,0,1,799
+S1978,2026-09-30,Direct,Mobile,Bangalore,Home,1,25,1,0,0
+S1979,2026-09-30,Social Media,Mobile,Bangalore,Blog,1,20,1,0,0
+S1980,2026-09-30,Social Media,Tablet,Chennai,Product,1,33,1,0,0
+S1981,2026-09-30,Referral,Mobile,Bangalore,Blog,4,441,0,0,0
+S1982,2026-09-30,Social Media,Tablet,Hyderabad,Product,1,34,1,0,0
+S1983,2026-09-30,Social Media,Mobile,Ahmedabad,Home,1,27,1,0,0
+S1984,2026-09-30,Direct,Desktop,Delhi,Contact,11,220,0,0,0
+S1985,2026-09-30,Referral,Desktop,Pune,Blog,4,554,0,0,0
+S1986,2026-09-30,Organic Search,Mobile,Delhi,Product,2,197,0,0,0
+S1987,2026-09-30,Direct,Mobile,Pune,Home,8,289,0,0,0
+S1988,2026-09-30,Direct,Mobile,Mumbai,Product,1,28,1,0,0
+S1989,2026-09-30,Organic Search,Mobile,Mumbai,Blog,1,28,1,0,0
+S1990,2026-09-30,Paid Ads,Mobile,Bangalore,Product,1,16,1,0,0
+S1991,2026-09-30,Social Media,Desktop,Bangalore,Product,4,238,0,0,0
+S1992,2026-09-30,Organic Search,Desktop,Delhi,Blog,1,34,1,0,0
+S1993,2026-09-30,Organic Search,Mobile,Bangalore,Blog,1,30,1,0,0
+S1994,2026-09-30,Social Media,Mobile,Delhi,Home,5,551,0,0,0
+S1995,2026-09-30,Social Media,Desktop,Delhi,Home,1,25,1,0,0
+S1996,2026-09-30,Social Media,Desktop,Pune,Home,9,110,0,0,0
+S1997,2026-09-30,Direct,Mobile,Delhi,Home,1,17,1,0,0
+S1998,2026-09-30,Organic Search,Mobile,Kolkata,Home,2,70,0,0,0
+S1999,2026-09-30,Email,Desktop,Bangalore,Blog,11,349,0,0,0
+S2000,2026-09-30,Direct,Mobile,Hyderabad,Home,10,588,0,0,0
