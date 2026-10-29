@@ -27,3 +27,15 @@ Move part of the Paid Ads and Social Media budget to Email and Organic Search co
 Improve mobile page speed and layout to reduce bounce.
 Redesign or A/B test landing pages for Social Media traffic.
 Add clear calls to action on Blog pages to push readers to Pricing or Contact
+Skills Demonstrated
+
+Data cleaning, pivot tables, SQL (JOIN, CASE, CTE, window functions, subqueries), data modelling, DAX, dashboard design, business insight writing.
+
+Future Improvements
+Add funnel analysis (landing page to conversion)
+A/B test results for landing pages
+Use real cost and campaign data
+Publish the dashboard to Power BI Service
+Author
+
+Souvik Dutta, Data Analyst (Fresher), Kolkata LinkedIn: linkedin.com/in/souvik-dutta-6a4159257 GitHub: souvik-dutta2000
