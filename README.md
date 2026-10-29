@@ -31,8 +31,8 @@ Skills Demonstrated
 
 Data cleaning, pivot tables, SQL (JOIN, CASE, CTE, window functions, subqueries), data modelling, DAX, dashboard design, business insight writing.
 
-Future Improvements
-Add funnel analysis (landing page to conversion)
+Website_Traffic_Sources_Project_Guide.pdf has the three parts:
+
 A/B test results for landing pages
 Use real cost and campaign data
 Publish the dashboard to Power BI Service
